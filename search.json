@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Scientific and Symbolic Computing Software",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "1  Reading List",
+    "section": "",
+    "text": "1.1 Matlab",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#matlab",
+    "href": "reading.html#matlab",
+    "title": "1  Reading List",
+    "section": "",
+    "text": "Matlab - A Practical Introduction. Attaway\nAn Introduction to Programming and Numerical Methods in Matlab. Otto\nLearning Matlab - a Problem-solving Approach. Gardner\nScientific Computing with Matlab and Octave. Quarteroni",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#python",
+    "href": "reading.html#python",
+    "title": "1  Reading List",
+    "section": "1.2 Python",
+    "text": "1.2 Python\n\nLearning Scientific Programming with Python. Hill\nIntroduction to Computation and Programming Using Python. John Guttag\nIntro to Python for Computer Science and Data Science. Deitel\nA Tour of Data Science - Learn Python and R in Parallel. Zhang",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#mathematica",
+    "href": "reading.html#mathematica",
+    "title": "1  Reading List",
+    "section": "1.3 Mathematica",
+    "text": "1.3 Mathematica\n\nHands-on Start to Wolfam Mathematica and Programming with the Wolfram Language. Hostings et al\nAn Elementary Introduction to the Wolfram Language. Wolfram\nProgramming with Mathematica - An Introduction. Wellin\nMathematica: A Problem-Centered Approach. Hazrat\nMathematica Navigator. Mathematics, Statistics, and Graphics. Ruskeepaa",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#r",
+    "href": "reading.html#r",
+    "title": "1  Reading List",
+    "section": "1.4 R",
+    "text": "1.4 R\n\nR as a Language - Aphalo\nR and Matlab. Hiebeler\nIntroduction to Probability with R. Baclawski\nProbability with Applications and R. Wagaman\nProbability with R - An Introduction with Computer Science Applications - Horgan\nDiscovering Statistics Using R. Field\nProbability and Statistics with R for Engineers. Akritas\nModern Data Science with R. Baumer",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#sage",
+    "href": "reading.html#sage",
+    "title": "1  Reading List",
+    "section": "1.5 Sage",
+    "text": "1.5 Sage\n\nComputational Math with Sage. Zimmerman et al\nNumber Theory in Context and Interactive. Crisman\nAbstract Algebra - An Interactive Approach. Paulsen\nConcrete Algebra - With a View Toward Abstract Algebra. McKay",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  }
+]
