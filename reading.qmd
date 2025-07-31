@@ -1,0 +1,43 @@
+---
+title: "Reading List"
+---
+
+## Matlab
+
+* Matlab - A Practical Introduction. Attaway
+* An Introduction to Programming and Numerical Methods in Matlab. Otto
+* Learning Matlab - a Problem-solving Approach. Gardner
+* Scientific Computing with Matlab and Octave. Quarteroni
+
+## Python
+
+* Learning Scientific Programming with Python. Hill
+* Introduction to Computation and Programming Using Python. John Guttag
+* Intro to Python for Computer Science and Data Science. Deitel
+* A Tour of Data Science - Learn Python and R in Parallel. Zhang
+
+## Mathematica
+
+* Hands-on Start to Wolfam Mathematica and Programming with the Wolfram Language. Hostings et al
+* An Elementary Introduction to the Wolfram Language. Wolfram
+* Programming with Mathematica - An Introduction. Wellin
+* Mathematica: A Problem-Centered Approach. Hazrat
+* Mathematica Navigator. Mathematics, Statistics, and Graphics. Ruskeepaa
+  
+## R
+
+* R as a Language - Aphalo
+* R and Matlab. Hiebeler
+* Introduction to Probability with R. Baclawski
+* Probability with Applications and R. Wagaman
+* Probability with R - An Introduction with Computer Science Applications - Horgan
+* Discovering Statistics Using R. Field
+* Probability and Statistics with R for Engineers. Akritas
+* Modern Data Science with R. Baumer
+
+## Sage
+
+* Computational Math with Sage. Zimmerman et al
+* Number Theory in Context and Interactive. Crisman
+* Abstract Algebra - An Interactive Approach. Paulsen
+* Concrete Algebra - With a View Toward Abstract Algebra. McKay

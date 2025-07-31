@@ -7,7 +7,9 @@ book:
   date: "5/17/2024"
   chapters:
     - index.qmd
+    - reading.qmd
   page-navigation: true
+  downloads: pdf
 
 # bibliography: references.bib
 
