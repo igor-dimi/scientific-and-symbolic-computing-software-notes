@@ -1,5 +1,6 @@
 project:
   type: book
+  execute-dir: project
 
 book:
   title: "Scientific and Symbolic Computing Software"
@@ -8,6 +9,10 @@ book:
   chapters:
     - index.qmd
     - reading.qmd
+    - sage/trial/notebook.ipynb
+    - sage/trial/notes.qmd
+    - sage/trial/notes2.qmd
+    - sage/bard/01.ipynb
   page-navigation: true
   downloads: pdf
 

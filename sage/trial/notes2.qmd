@@ -1,0 +1,59 @@
+---
+title: "Sage - Trial Notes 2"
+engine: jupyter
+jupyter: 
+    kernel: sagemath
+---
+
+
+```{sage}
+#| echo: false
+import os
+
+proj = os.environ.get("QUARTO_PROJECT_DIR")
+
+print("proj:", proj)
+
+if proj is None:
+    # interactive / notebook execution
+    here = os.getcwd()
+    print("here", here)
+    proj = os.path.abspath(os.path.join(here, "..", ".."))
+    print("proj:", proj)
+
+    
+
+load(os.path.join(proj, "_code", "sage_helpers.sage"))
+```
+
+```{sage}
+plot(sin(x))
+```
+
+here's an integral: 
+
+```{sage}
+qshow(integrate(x/(x^2 + 1), x))
+```
+
+```{sage}
+#| echo: false
+#| output: false
+
+g(x, y) = sin(x^2 * sqrt(y))
+p = plot3d(g, (x, -3, 3), (y, -3, 3))
+p.save("plot3d-2.png", viewer="tachyon")
+```
+
+graph of $\sin(x^2) * \sqrt{y}$
+
+:::{.content-visible when-format="html"}
+```{sage}
+#| echo: false
+p
+```
+:::
+
+:::{.content-visible when-format="pdf"}
+![](plot3d-2.png){width="75%"}
+:::

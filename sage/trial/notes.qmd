@@ -1,0 +1,90 @@
+---
+title: "Sage - Trial Notes"
+engine: jupyter
+jupyter: 
+    kernel: sagemath
+execute: 
+    enabled: true
+    echo: true
+    output: true
+---
+
+```{sage}
+import sys, os
+print("kernel:", sys.executable)
+print("cwd:", os.getcwd())
+print("this shoudl appear")
+```
+
+```{sage}
+#| echo: false
+print("come on!")
+```
+
+```{sage}
+import os
+
+proj = os.environ.get("QUARTO_PROJECT_DIR")
+print("proj1:", proj)
+
+if proj is None:
+    # interactive / notebook execution
+    here = os.getcwd()
+    print("project is None, here: ", here)
+    proj = os.path.abspath(os.path.join(here, "..", ".."))
+    print(proj)
+
+load(os.path.join(proj, "_code", "sage_helpers.sage"))
+```
+
+```{sage}
+# import os
+# print(os.getcwd())
+# proj = os.environ.get("QUARTO_PROJECT_DIR", ".")
+# print(proj)
+# load(os.path.join(proj, "_code", "sage_helpers.sage"))
+```
+
+```{sage}
+# import os
+# here = os.path.dirname(os.path.abspath(__file__)) if "__file__" in globals() else os.getcwd()
+# print(here)
+
+# project_root = os.abspath(os.path.join(here, "..", ".."))
+# load(os.path.join(project_root, "__code", "sage_helpers.sage"))
+```
+
+```{sage}
+x = var('x')
+expr = integrate(sqrt(x) * sqrt(1 + x), x)
+qshow(expr)
+```
+
+```{sage}
+integrate(sqrt(x) * sqrt(1 + x), x)
+```
+
+```{sage}
+g(x, y) = sin(x*y)
+p = plot3d(g, (x, -3, 3), (y, -3, 3))
+p.save("plot3d.png", viewer="tachyon")
+```
+
+:::{.content-visible when-format="html"}
+```{sage}
+p
+```
+:::
+
+::: {.content-visible when-format="pdf"}
+![]("plot3d-fallback.png")
+:::
+
+```{python}
+import os, json
+from pathlib import Path
+from IPython.display import Image, display
+
+info_path = os.environ.get("QUARTO_EXECUTE_INFO")
+print(info_path)
+```
