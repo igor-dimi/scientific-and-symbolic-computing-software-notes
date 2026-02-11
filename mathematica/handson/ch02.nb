@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    116839,       3104]
-NotebookOptionsPosition[    113423,       3035]
-NotebookOutlinePosition[    113998,       3057]
-CellTagsIndexPosition[    113910,       3052]
+NotebookDataLength[    165724,       4288]
+NotebookOptionsPosition[    162360,       4223]
+NotebookOutlinePosition[    162763,       4239]
+CellTagsIndexPosition[    162720,       4236]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -28,10 +28,10 @@ Cell[BoxData[
  CellLabel->"In[1]:=",ExpressionUUID->"1b97d754-b1e4-4887-8c18-dd37e1ee3bb1"],
 
 Cell[BoxData[
- TemplateBox[{"78.9`","\"yr\"","years","\"Years\""},
+ TemplateBox[{"78.9`", "\"yr\"", "years", "\"Years\""},
   "Quantity"]], "Output",
- CellChangeTimes->{3.962987943449215*^9},
- CellLabel->"Out[1]=",ExpressionUUID->"eca802cd-964e-4d5f-9c30-2785a1f95052"]
+ CellChangeTimes->{3.962987943449215*^9, 3.9798074800809054`*^9},
+ CellLabel->"Out[1]=",ExpressionUUID->"89a24af6-32b3-43ec-8f34-52725db880d5"]
 }, Open  ]],
 
 Cell[BoxData[
@@ -56,6 +56,8 @@ Cell[BoxData[
   3.962988087003727*^9}},
  CellLabel->"In[2]:=",ExpressionUUID->"be70d9be-908b-4798-80a4-d20c2edad793"],
 
+Cell[CellGroupData[{
+
 Cell[BoxData[
  RowBox[{"Short", "[", "data", "]"}]], "Input",
  CellChangeTimes->{{3.9629880905682993`*^9, 3.962988092013439*^9}},
@@ -67,11 +69,303 @@ Cell[BoxData[
    RowBox[{
     RowBox[{"{", 
      RowBox[{
+      TemplateBox[{"\"Afghanistan\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Afghanistan\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Afghanistan\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"65.173`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Albania\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Albania\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Albania\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"78.686`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Algeria\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Algeria\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Algeria\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"77.063`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"American Samoa\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"AmericanSamoa\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"AmericanSamoa\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"73.9`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Andorra\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Andorra\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Andorra\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"82.9`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Angola\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Angola\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Angola\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"61.487`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Anguilla\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Anguilla\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Anguilla\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"81.6`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Antigua and Barbuda\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"AntiguaBarbuda\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"AntiguaBarbuda\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"77.146`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Argentina\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Argentina\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Argentina\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"76.813`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Armenia\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Armenia\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Armenia\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"75.224`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Aruba\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Aruba\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Aruba\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"76.434`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Australia\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Australia\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Australia\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"83.586`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Austria\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Austria\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Austria\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"81.671`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Azerbaijan\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Azerbaijan\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Azerbaijan\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"73.123`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Bahamas\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Bahamas\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Bahamas\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"74.053`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Bahrain\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Bahrain\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Bahrain\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"77.419`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"\[LeftSkeleton]", "202", "\[RightSkeleton]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"United Arab Emirates\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"UnitedArabEmirates\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"UnitedArabEmirates\\\"]\"", 
+        "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"78.12`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"United Kingdom\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"UnitedKingdom\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"UnitedKingdom\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"81.426`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"United States\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"UnitedStates\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"UnitedStates\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"78.9`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"United States Virgin Islands\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"UnitedStatesVirginIslands\""}], 
+          "]"}], "\"Entity[\\\"Country\\\", \
+\\\"UnitedStatesVirginIslands\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"80.747`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Uruguay\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Uruguay\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Uruguay\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"78.056`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Uzbekistan\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Uzbekistan\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Uzbekistan\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"71.848`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Vanuatu\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Vanuatu\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Vanuatu\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"70.623`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Venezuela\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Venezuela\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Venezuela\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"72.066`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Vietnam\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Vietnam\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Vietnam\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"75.493`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Wallis and Futuna Islands\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"WallisFutuna\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"WallisFutuna\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"80.`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"West Bank\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"WestBank\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"WestBank\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"75.4`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Western Sahara\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"WesternSahara\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"WesternSahara\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"70.505`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Yemen\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Yemen\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Yemen\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"66.181`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Zambia\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Zambia\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Zambia\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"64.194`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Zimbabwe\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Zimbabwe\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Zimbabwe\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"61.738`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}]}], "}"}],
+  Short]], "Output",
+ CellChangeTimes->{3.9798075796529984`*^9},
+ CellLabel->
+  "Out[3]//Short=",ExpressionUUID->"62f07400-2525-4f60-a91f-55b010619078"]
+}, Open  ]],
+
+Cell[BoxData[
+ TagBox[
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
       RowBox[{
        RowBox[{"Entity", "[", 
         RowBox[{"\"\<Country\>\"", ",", "\"\<Afghanistan\>\""}], "]"}], 
        "\.14mathe"}], ",", 
-      TemplateBox[{"65.173`","\"yr\"","years","\"Years\""},
+      TemplateBox[{"65.173`", "\"yr\"", "years", "\"Years\""},
        "Quantity"]}], "}"}], ",", 
     RowBox[{"\[LeftSkeleton]", "231", "\[RightSkeleton]"}], ",", 
     RowBox[{"{", 
@@ -79,12 +373,12 @@ Cell[BoxData[
       RowBox[{"Entity", "[", 
        RowBox[{"\"\<Country\>\"", ",", 
         RowBox[{"\"\<\>\"", "\[Ellipsis]", "\"\<\>\""}]}], "]"}], ",", 
-      TemplateBox[{"61.738`","\"yr\"","years","\"Years\""},
+      TemplateBox[{"61.738`", "\"yr\"", "years", "\"Years\""},
        "Quantity"]}], "}"}]}], "}"}],
   Short]], "Input",
- CellChangeTimes->{{3.9629891165484343`*^9, 
-  3.962989117186708*^9}},ExpressionUUID->"db684ff6-e920-42b2-89ad-\
-e70165aa6d65"],
+ CellChangeTimes->{{3.9629891165484343`*^9, 3.962989117186708*^9}},
+ EmphasizeSyntaxErrors->True,
+ CellLabel->"In[4]:=",ExpressionUUID->"db684ff6-e920-42b2-89ad-e70165aa6d65"],
 
 Cell[CellGroupData[{
 
@@ -94,7 +388,7 @@ Cell[BoxData[
    RowBox[{"data", ",", " ", "Last"}], "]"}], "]"}]], "Input",
  CellChangeTimes->{{3.962989107566107*^9, 3.96298910945755*^9}, {
   3.962989194303347*^9, 3.962989199085208*^9}},
- CellLabel->"In[5]:=",ExpressionUUID->"5dc69408-b039-4ed5-b236-ec97d14c672d"],
+ CellLabel->"In[4]:=",ExpressionUUID->"5dc69408-b039-4ed5-b236-ec97d14c672d"],
 
 Cell[BoxData[
  TagBox[
@@ -102,22 +396,291 @@ Cell[BoxData[
    RowBox[{
     RowBox[{"{", 
      RowBox[{
-      RowBox[{"Entity", "[", 
-       RowBox[{"\<\"Country\"\>", ",", "\<\"CentralAfricanRepublic\"\>"}], 
-       "]"}], ",", 
-      TemplateBox[{"53.679`","\"yr\"","years","\"Years\""},
+      TemplateBox[{"\"Central African Republic\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"CentralAfricanRepublic\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"CentralAfricanRepublic\\\"]\"", 
+        "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"53.679`", "\"yr\"", "years", "\"Years\""},
        "Quantity"]}], "}"}], ",", 
-    RowBox[{"\[LeftSkeleton]", "231", "\[RightSkeleton]"}], ",", 
     RowBox[{"{", 
      RowBox[{
-      RowBox[{"Entity", "[", 
-       RowBox[{"\[LeftSkeleton]", "1", "\[RightSkeleton]"}], "]"}], ",", 
-      TemplateBox[{"89.4`","\"yr\"","years","\"Years\""},
+      TemplateBox[{"\"Chad\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Chad\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Chad\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"54.505`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Lesotho\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Lesotho\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Lesotho\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"54.836`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Nigeria\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Nigeria\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Nigeria\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"55.018`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Sierra Leone\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"SierraLeone\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"SierraLeone\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"55.066`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Somalia\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Somalia\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Somalia\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"57.697`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"South Sudan\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"SouthSudan\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"SouthSudan\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"58.095`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Ivory Coast\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"IvoryCoast\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"IvoryCoast\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"58.104`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Guinea-Bissau\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"GuineaBissau\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"GuineaBissau\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"58.634`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Equatorial Guinea\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"EquatorialGuinea\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"EquatorialGuinea\\\"]\"", 
+        "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"59.057`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Cameroon\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Cameroon\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Cameroon\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"59.626`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Mali\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Mali\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Mali\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"59.692`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Eswatini\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Swaziland\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Swaziland\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"60.721`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Democratic Republic of the Congo\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"DemocraticRepublicCongo\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"DemocraticRepublicCongo\\\"]\"", 
+        "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"60.971`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Togo\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Togo\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Togo\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"61.34`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Mozambique\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Mozambique\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Mozambique\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"61.387`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"\[LeftSkeleton]", "202", "\[RightSkeleton]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Andorra\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Andorra\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Andorra\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"82.9`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Sweden\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Sweden\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Sweden\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"82.946`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Israel\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Israel\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Israel\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"83.123`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Iceland\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Iceland\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Iceland\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"83.138`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"South Korea\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"SouthKorea\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"SouthKorea\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"83.193`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"San Marino\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"SanMarino\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"SanMarino\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"83.4`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Australia\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Australia\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Australia\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"83.586`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Italy\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Italy\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Italy\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"83.663`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Spain\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Spain\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Spain\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"83.693`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Singapore\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Singapore\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Singapore\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"83.767`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Switzerland\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Switzerland\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Switzerland\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"83.921`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Macau\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Macau\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Macau\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"84.37`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Japan\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Japan\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Japan\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"84.766`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Hong Kong\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"HongKong\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"HongKong\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"85.003`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Monaco\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Monaco\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Monaco\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"89.4`", "\"yr\"", "years", "\"Years\""},
        "Quantity"]}], "}"}]}], "}"}],
   Short]], "Output",
- CellChangeTimes->{3.962989266964773*^9},
+ CellChangeTimes->{3.962989266964773*^9, 3.9798075858299694`*^9},
  CellLabel->
-  "Out[5]//Short=",ExpressionUUID->"2f3cb206-828f-40b1-9e9c-c03db424a9bd"]
+  "Out[4]//Short=",ExpressionUUID->"e50258b3-b5fc-421a-9eb5-30cda331b312"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -125,7 +688,7 @@ Cell[CellGroupData[{
 Cell[BoxData[
  RowBox[{"Short", "[", "data", "]"}]], "Input",
  CellChangeTimes->{{3.962989241092187*^9, 3.962989242754108*^9}},
- CellLabel->"In[6]:=",ExpressionUUID->"24588e26-16d7-4a81-908e-597fca940961"],
+ CellLabel->"In[5]:=",ExpressionUUID->"24588e26-16d7-4a81-908e-597fca940961"],
 
 Cell[BoxData[
  TagBox[
@@ -133,22 +696,290 @@ Cell[BoxData[
    RowBox[{
     RowBox[{"{", 
      RowBox[{
-      RowBox[{"Entity", "[", 
-       RowBox[{"\<\"Country\"\>", ",", "\<\"Afghanistan\"\>"}], "]"}], ",", 
-      TemplateBox[{"65.173`","\"yr\"","years","\"Years\""},
+      TemplateBox[{"\"Afghanistan\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Afghanistan\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Afghanistan\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"65.173`", "\"yr\"", "years", "\"Years\""},
        "Quantity"]}], "}"}], ",", 
-    RowBox[{"\[LeftSkeleton]", "231", "\[RightSkeleton]"}], ",", 
     RowBox[{"{", 
      RowBox[{
-      RowBox[{"Entity", "[", 
-       RowBox[{"\<\"Country\"\>", ",", 
-        RowBox[{"\<\"\"\>", "\[Ellipsis]", "\<\"\"\>"}]}], "]"}], ",", 
-      TemplateBox[{"61.738`","\"yr\"","years","\"Years\""},
+      TemplateBox[{"\"Albania\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Albania\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Albania\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"78.686`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Algeria\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Algeria\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Algeria\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"77.063`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"American Samoa\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"AmericanSamoa\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"AmericanSamoa\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"73.9`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Andorra\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Andorra\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Andorra\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"82.9`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Angola\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Angola\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Angola\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"61.487`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Anguilla\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Anguilla\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Anguilla\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"81.6`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Antigua and Barbuda\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"AntiguaBarbuda\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"AntiguaBarbuda\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"77.146`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Argentina\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Argentina\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Argentina\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"76.813`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Armenia\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Armenia\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Armenia\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"75.224`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Aruba\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Aruba\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Aruba\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"76.434`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Australia\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Australia\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Australia\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"83.586`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Austria\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Austria\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Austria\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"81.671`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Azerbaijan\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Azerbaijan\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Azerbaijan\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"73.123`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Bahamas\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Bahamas\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Bahamas\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"74.053`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Bahrain\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Bahrain\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Bahrain\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"77.419`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"\[LeftSkeleton]", "202", "\[RightSkeleton]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"United Arab Emirates\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"UnitedArabEmirates\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"UnitedArabEmirates\\\"]\"", 
+        "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"78.12`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"United Kingdom\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"UnitedKingdom\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"UnitedKingdom\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"81.426`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"United States\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"UnitedStates\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"UnitedStates\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"78.9`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"United States Virgin Islands\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"UnitedStatesVirginIslands\""}], 
+          "]"}], "\"Entity[\\\"Country\\\", \
+\\\"UnitedStatesVirginIslands\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"80.747`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Uruguay\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Uruguay\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Uruguay\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"78.056`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Uzbekistan\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Uzbekistan\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Uzbekistan\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"71.848`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Vanuatu\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Vanuatu\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Vanuatu\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"70.623`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Venezuela\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Venezuela\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Venezuela\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"72.066`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Vietnam\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Vietnam\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Vietnam\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"75.493`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Wallis and Futuna Islands\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"WallisFutuna\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"WallisFutuna\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"80.`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"West Bank\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"WestBank\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"WestBank\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"75.4`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Western Sahara\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"WesternSahara\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"WesternSahara\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"70.505`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Yemen\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Yemen\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Yemen\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"66.181`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Zambia\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Zambia\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Zambia\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"64.194`", "\"yr\"", "years", "\"Years\""},
+       "Quantity"]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      TemplateBox[{"\"Zimbabwe\"", 
+        RowBox[{"Entity", "[", 
+          RowBox[{"\"Country\"", ",", "\"Zimbabwe\""}], "]"}], 
+        "\"Entity[\\\"Country\\\", \\\"Zimbabwe\\\"]\"", "\"country\""},
+       "Entity"], ",", 
+      TemplateBox[{"61.738`", "\"yr\"", "years", "\"Years\""},
        "Quantity"]}], "}"}]}], "}"}],
   Short]], "Output",
- CellChangeTimes->{3.9629893271681557`*^9},
+ CellChangeTimes->{3.9629893271681557`*^9, 3.9798075924579268`*^9},
  CellLabel->
-  "Out[6]//Short=",ExpressionUUID->"0c18c5af-f59a-4208-a8e5-89c9fcb74548"]
+  "Out[5]//Short=",ExpressionUUID->"4cb0722f-6ebb-46d2-ba77-d49917739c12"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -156,10 +987,9 @@ Cell[CellGroupData[{
 Cell[BoxData[
  RowBox[{"Histogram", "[", 
   RowBox[{"data", "\[LeftDoubleBracket]", 
-   RowBox[{"All", ",", " ", "2"}], "\[RightDoubleBracket]"}], "]"}]], "Input",\
-
+   RowBox[{"All", ",", " ", "2"}], "\[RightDoubleBracket]"}], "]"}]], "Input",
  CellChangeTimes->{{3.962989303625495*^9, 3.962989317994091*^9}},
- CellLabel->"In[7]:=",ExpressionUUID->"774e7c9d-3788-43e6-afcf-c212e0510f13"],
+ CellLabel->"In[6]:=",ExpressionUUID->"774e7c9d-3788-43e6-afcf-c212e0510f13"],
 
 Cell[BoxData[
  GraphicsBox[{
@@ -170,16 +1000,19 @@ Cell[BoxData[
      TagBox[
       TooltipBox[
        TagBox[
-        DynamicBox[{
-          FEPrivate`If[
-           CurrentValue["MouseOver"], 
-           EdgeForm[{
-             GrayLevel[0.5], 
-             AbsoluteThickness[1.5], 
-             Opacity[0.66]}], {}, {}], 
-          RectangleBox[{50., 0}, {55., 3.}, "RoundingRadius" -> 0]},
-         ImageSizeCache->{{29.635258206565197`, 81.496246997598}, {
-          103.58822196118929`, 115.53975724721323`}}],
+        TagBox[
+         DynamicBox[{
+           FEPrivate`If[
+            CurrentValue["MouseOver"], 
+            EdgeForm[{
+              GrayLevel[0.5], 
+              AbsoluteThickness[1.5], 
+              Opacity[0.66]}], {}, {}], 
+           RectangleBox[{50., 0}, {55., 3.}, "RoundingRadius" -> 0]},
+          
+          ImageSizeCache->{{20.50959314471538, 62.488010310668585`}, {
+           86.40865707863894, 96.078125}}],
+         "DelayedMouseEffectStyle"],
         StatusArea[#, 3]& ,
         TagBoxNote->"3"],
        StyleBox["3", {}, StripOnInput -> False]],
@@ -188,16 +1021,19 @@ Cell[BoxData[
      TagBox[
       TooltipBox[
        TagBox[
-        DynamicBox[{
-          FEPrivate`If[
-           CurrentValue["MouseOver"], 
-           EdgeForm[{
-             GrayLevel[0.5], 
-             AbsoluteThickness[1.5], 
-             Opacity[0.66]}], {}, {}], 
-          RectangleBox[{55., 0}, {60., 9.}, "RoundingRadius" -> 0]},
-         ImageSizeCache->{{80.871246997598, 132.73223578863082`}, {
-          80.93515138914142, 115.53975724721323`}}],
+        TagBox[
+         DynamicBox[{
+           FEPrivate`If[
+            CurrentValue["MouseOver"], 
+            EdgeForm[{
+              GrayLevel[0.5], 
+              AbsoluteThickness[1.5], 
+              Opacity[0.66]}], {}, {}], 
+           RectangleBox[{55., 0}, {60., 9.}, "RoundingRadius" -> 0]},
+          
+          ImageSizeCache->{{61.988010310668585`, 103.96642747662185`}, {
+           68.06972123591683, 96.078125}}],
+         "DelayedMouseEffectStyle"],
         StatusArea[#, 9]& ,
         TagBoxNote->"9"],
        StyleBox["9", {}, StripOnInput -> False]],
@@ -206,16 +1042,19 @@ Cell[BoxData[
      TagBox[
       TooltipBox[
        TagBox[
-        DynamicBox[{
-          FEPrivate`If[
-           CurrentValue["MouseOver"], 
-           EdgeForm[{
-             GrayLevel[0.5], 
-             AbsoluteThickness[1.5], 
-             Opacity[0.66]}], {}, {}], 
-          RectangleBox[{60., 0}, {65., 23.}, "RoundingRadius" -> 0]},
-         ImageSizeCache->{{132.10723578863082`, 183.96822457966363`}, {
-          28.077986721029703`, 115.53975724721323`}}],
+        TagBox[
+         DynamicBox[{
+           FEPrivate`If[
+            CurrentValue["MouseOver"], 
+            EdgeForm[{
+              GrayLevel[0.5], 
+              AbsoluteThickness[1.5], 
+              Opacity[0.66]}], {}, {}], 
+           RectangleBox[{60., 0}, {65., 23.}, "RoundingRadius" -> 0]},
+          
+          ImageSizeCache->{{103.46642747662185`, 145.4448446425751}, {
+           25.278870936231883`, 96.078125}}],
+         "DelayedMouseEffectStyle"],
         StatusArea[#, 23]& ,
         TagBoxNote->"23"],
        StyleBox["23", {}, StripOnInput -> False]],
@@ -224,16 +1063,19 @@ Cell[BoxData[
      TagBox[
       TooltipBox[
        TagBox[
-        DynamicBox[{
-          FEPrivate`If[
-           CurrentValue["MouseOver"], 
-           EdgeForm[{
-             GrayLevel[0.5], 
-             AbsoluteThickness[1.5], 
-             Opacity[0.66]}], {}, {}], 
-          RectangleBox[{65., 0}, {70., 25.}, "RoundingRadius" -> 0]},
-         ImageSizeCache->{{183.34322457966363`, 235.20421337069644`}, {
-          20.526963197013757`, 115.53975724721323`}}],
+        TagBox[
+         DynamicBox[{
+           FEPrivate`If[
+            CurrentValue["MouseOver"], 
+            EdgeForm[{
+              GrayLevel[0.5], 
+              AbsoluteThickness[1.5], 
+              Opacity[0.66]}], {}, {}], 
+           RectangleBox[{65., 0}, {70., 25.}, "RoundingRadius" -> 0]},
+          
+          ImageSizeCache->{{144.9448446425751, 186.92326180852825`}, {
+           19.165892321991166`, 96.078125}}],
+         "DelayedMouseEffectStyle"],
         StatusArea[#, 25]& ,
         TagBoxNote->"25"],
        StyleBox["25", {}, StripOnInput -> False]],
@@ -242,16 +1084,19 @@ Cell[BoxData[
      TagBox[
       TooltipBox[
        TagBox[
-        DynamicBox[{
-          FEPrivate`If[
-           CurrentValue["MouseOver"], 
-           EdgeForm[{
-             GrayLevel[0.5], 
-             AbsoluteThickness[1.5], 
-             Opacity[0.66]}], {}, {}], 
-          RectangleBox[{70., 0}, {75., 53.}, "RoundingRadius" -> 0]},
-         ImageSizeCache->{{234.57921337069644`, 
-          286.44020216172936`}, {-85.18736613920967, 115.53975724721323`}}],
+        TagBox[
+         DynamicBox[{
+           FEPrivate`If[
+            CurrentValue["MouseOver"], 
+            EdgeForm[{
+              GrayLevel[0.5], 
+              AbsoluteThickness[1.5], 
+              Opacity[0.66]}], {}, {}], 
+           RectangleBox[{70., 0}, {75., 53.}, "RoundingRadius" -> 0]},
+          
+          ImageSizeCache->{{186.42326180852825`, 
+           228.4016789744815}, {-66.41580827737872, 96.078125}}],
+         "DelayedMouseEffectStyle"],
         StatusArea[#, 53]& ,
         TagBoxNote->"53"],
        StyleBox["53", {}, StripOnInput -> False]],
@@ -260,16 +1105,19 @@ Cell[BoxData[
      TagBox[
       TooltipBox[
        TagBox[
-        DynamicBox[{
-          FEPrivate`If[
-           CurrentValue["MouseOver"], 
-           EdgeForm[{
-             GrayLevel[0.5], 
-             AbsoluteThickness[1.5], 
-             Opacity[0.66]}], {}, {}], 
-          RectangleBox[{75., 0}, {80., 65.}, "RoundingRadius" -> 0]},
-         ImageSizeCache->{{285.81520216172936`, 
-          337.67619095276217`}, {-130.4935072833054, 115.53975724721323`}}],
+        TagBox[
+         DynamicBox[{
+           FEPrivate`If[
+            CurrentValue["MouseOver"], 
+            EdgeForm[{
+              GrayLevel[0.5], 
+              AbsoluteThickness[1.5], 
+              Opacity[0.66]}], {}, {}], 
+           RectangleBox[{75., 0}, {80., 65.}, "RoundingRadius" -> 0]},
+          
+          ImageSizeCache->{{227.9016789744815, 
+           269.8800961404348}, {-103.09367996282296`, 96.078125}}],
+         "DelayedMouseEffectStyle"],
         StatusArea[#, 65]& ,
         TagBoxNote->"65"],
        StyleBox["65", {}, StripOnInput -> False]],
@@ -278,16 +1126,19 @@ Cell[BoxData[
      TagBox[
       TooltipBox[
        TagBox[
-        DynamicBox[{
-          FEPrivate`If[
-           CurrentValue["MouseOver"], 
-           EdgeForm[{
-             GrayLevel[0.5], 
-             AbsoluteThickness[1.5], 
-             Opacity[0.66]}], {}, {}], 
-          RectangleBox[{80., 0}, {85., 53.}, "RoundingRadius" -> 0]},
-         ImageSizeCache->{{337.05119095276217`, 
-          388.912179743795}, {-85.18736613920967, 115.53975724721323`}}],
+        TagBox[
+         DynamicBox[{
+           FEPrivate`If[
+            CurrentValue["MouseOver"], 
+            EdgeForm[{
+              GrayLevel[0.5], 
+              AbsoluteThickness[1.5], 
+              Opacity[0.66]}], {}, {}], 
+           RectangleBox[{80., 0}, {85., 53.}, "RoundingRadius" -> 0]},
+          
+          ImageSizeCache->{{269.3800961404348, 
+           311.35851330638803`}, {-66.41580827737872, 96.078125}}],
+         "DelayedMouseEffectStyle"],
         StatusArea[#, 53]& ,
         TagBoxNote->"53"],
        StyleBox["53", {}, StripOnInput -> False]],
@@ -296,16 +1147,19 @@ Cell[BoxData[
      TagBox[
       TooltipBox[
        TagBox[
-        DynamicBox[{
-          FEPrivate`If[
-           CurrentValue["MouseOver"], 
-           EdgeForm[{
-             GrayLevel[0.5], 
-             AbsoluteThickness[1.5], 
-             Opacity[0.66]}], {}, {}], 
-          RectangleBox[{85., 0}, {90., 2.}, "RoundingRadius" -> 0]},
-         ImageSizeCache->{{388.287179743795, 440.1481685348278}, {
-          107.36373372319727`, 115.53975724721323`}}],
+        TagBox[
+         DynamicBox[{
+           FEPrivate`If[
+            CurrentValue["MouseOver"], 
+            EdgeForm[{
+              GrayLevel[0.5], 
+              AbsoluteThickness[1.5], 
+              Opacity[0.66]}], {}, {}], 
+           RectangleBox[{85., 0}, {90., 2.}, "RoundingRadius" -> 0]},
+          
+          ImageSizeCache->{{310.85851330638803`, 352.8369304723413}, {
+           89.4651463857593, 96.078125}}],
+         "DelayedMouseEffectStyle"],
         StatusArea[#, 2]& ,
         TagBoxNote->"2"],
        StyleBox["2", {}, StripOnInput -> False]],
@@ -328,8 +1182,8 @@ Cell[BoxData[
      Scaled[0.02], 
      Scaled[0.05]}},
   Ticks->{Automatic, Automatic}]], "Output",
- CellChangeTimes->{3.9629893278462667`*^9},
- CellLabel->"Out[7]=",ExpressionUUID->"83c4440b-cae7-45f2-ae3a-1a580b551874"]
+ CellChangeTimes->{3.9629893278462667`*^9, 3.9798075928696394`*^9},
+ CellLabel->"Out[6]=",ExpressionUUID->"40311298-b68d-42d9-a56f-5bac116739f1"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -413,7 +1267,7 @@ Cell[BoxData[{
      "\"\<Africa\>\"", ",", " ", "\"\<Asia\>\"", ",", " ", "\"\<Europe\>\""}],
       "}"}]}]}], "]"}], "\[IndentingNewLine]"}], "Input",
  CellChangeTimes->{{3.962989459508252*^9, 3.9629896771818733`*^9}},
- CellLabel->"In[22]:=",ExpressionUUID->"4dffb986-d8ba-41ed-b29d-d3494c301f99"],
+ CellLabel->"In[7]:=",ExpressionUUID->"4dffb986-d8ba-41ed-b29d-d3494c301f99"],
 
 Cell[BoxData[
  GraphicsBox[{
@@ -425,20 +1279,8 @@ Cell[BoxData[
       0.6789999999999999], Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0.5487982520029133, 0.}, {1.4512017479970867`, 
-            65.32634482758623}, "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{104.4477389353807, 
-           183.0659792788528}, {-86.09058466814402, 118.99252169339265`}}],
+        TagBox[RectangleBox[{0.5487982520029133, 0.}, {1.4512017479970867, 65.32634482758623},
+          RoundingRadius->0],
          StatusArea[#, 65.32634482758623]& ,
          TagBoxNote->"65.32634482758623"],
         StyleBox["65.32634482758623`", {}, StripOnInput -> False]],
@@ -448,20 +1290,8 @@ Cell[BoxData[
       0.6789999999999999], Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{1.5487982520029133`, 0.}, {2.4512017479970867`, 
-            74.73169811320754}, "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{190.87608356135908`, 
-           269.4943239048312}, {-115.52741796280803`, 118.99252169339265`}}],
+        TagBox[RectangleBox[{1.5487982520029133, 0.}, {2.4512017479970867, 74.73169811320754},
+          RoundingRadius->0],
          StatusArea[#, 74.73169811320754]& ,
          TagBoxNote->"74.73169811320754"],
         StyleBox["74.73169811320754`", {}, StripOnInput -> False]],
@@ -471,59 +1301,51 @@ Cell[BoxData[
       0.6789999999999999], Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{2.5487982520029133`, 0.}, {3.4512017479970867`, 
-            80.06363962170234}, "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{277.30442818733746`, 
-           355.9226685308096}, {-132.2153050156432, 118.99252169339263`}}],
+        TagBox[RectangleBox[{2.5487982520029133, 0.}, {3.4512017479970867, 80.06363962170234},
+          RoundingRadius->0],
          StatusArea[#, 80.06363962170234]& ,
          TagBoxNote->"80.06363962170234"],
         StyleBox["80.06363962170234`", {}, StripOnInput -> False]],
        Annotation[#, 
         Style[80.06363962170234, {}], 
         "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-   StyleBox[{
-     {Thickness[Tiny], 
-      LineBox[{{-0.4116533139111435, 0.}, {4.430862345229425, 0.}}], 
-      StyleBox[{}, "GraphicsLabel",
-       StripOnInput->False]}, 
-     StyleBox[{
-       {Thickness[Tiny], 
-        LineBox[{{0.5487982520029133, 0.}, 
-          Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 0.}]}], 
-        LineBox[{{3.4512017479970867`, 0.}, 
-          Offset[{-1.102182119232618*^-15, -6.}, {3.4512017479970867`, 
-           0.}]}], {{}, {}, {}, {
-          LineBox[{{1.4512017479970867`, 0.}, 
-            Offset[{-7.347880794884119*^-16, -4.}, {1.4512017479970867`, 
-             0.}]}], LineBox[{{1.5487982520029133`, 0.}, 
-            Offset[{-7.347880794884119*^-16, -4.}, {1.5487982520029133`, 
-             0.}]}], LineBox[{{2.4512017479970867`, 0.}, 
-            Offset[{-7.347880794884119*^-16, -4.}, {2.4512017479970867`, 
-             0.}]}], LineBox[{{2.5487982520029133`, 0.}, 
-            Offset[{-7.347880794884119*^-16, -4.}, {2.5487982520029133`, 
-             0.}]}]}, {}}}, 
-       StyleBox[
+   StyleBox[
+    StyleBox[{
+      {Thickness[Tiny], 
+       LineBox[{{-0.4116533139111435, 0.}, {4.430862345229425, 0.}}], 
+       StyleBox[{}, "GraphicsLabel",
+        StripOnInput->False]}, 
+      StyleBox[{
         {Thickness[Tiny], 
-         InsetBox["\<\"Africa\"\>", Offset[{0, -2}, {1., 0.}], {0, 1}, 
-          Automatic, {1, 0}], 
-         InsetBox["\<\"Asia\"\>", Offset[{0, -2}, {2., 0.}], {0, 1}, 
-          Automatic, {1, 0}], 
-         InsetBox["\<\"Europe\"\>", Offset[{0, -2}, {3., 0.}], {0, 1}, 
-          Automatic, {1, 0}]}, "GraphicsLabel",
-        StripOnInput->False]}, "GraphicsTicks",
-      StripOnInput->False]}, "GraphicsAxes",
-    StripOnInput->False,
-    Antialiasing->False]},
+         LineBox[{{0.5487982520029133, 0.}, 
+           Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 0.}]}],
+          LineBox[{{3.4512017479970867`, 0.}, 
+           Offset[{-1.102182119232618*^-15, -6.}, {3.4512017479970867`, 
+            0.}]}], {{}, {}, {}, {
+           LineBox[{{1.4512017479970867`, 0.}, 
+             Offset[{-7.347880794884119*^-16, -4.}, {1.4512017479970867`, 
+              0.}]}], LineBox[{{1.5487982520029133`, 0.}, 
+             Offset[{-7.347880794884119*^-16, -4.}, {1.5487982520029133`, 
+              0.}]}], LineBox[{{2.4512017479970867`, 0.}, 
+             Offset[{-7.347880794884119*^-16, -4.}, {2.4512017479970867`, 
+              0.}]}], LineBox[{{2.5487982520029133`, 0.}, 
+             Offset[{-7.347880794884119*^-16, -4.}, {2.5487982520029133`, 
+              0.}]}]}, {}}}, 
+        StyleBox[
+         {Thickness[Tiny], 
+          InsetBox["\<\"Africa\"\>", Offset[{0, -2}, {1., 0.}], NCache[
+           ImageScaled[{Rational[1, 2], 1}], ImageScaled[{0.5, 1}]], 
+           Automatic, {1, 0}], 
+          InsetBox["\<\"Asia\"\>", Offset[{0, -2}, {2., 0.}], NCache[
+           ImageScaled[{Rational[1, 2], 1}], ImageScaled[{0.5, 1}]], 
+           Automatic, {1, 0}], 
+          InsetBox["\<\"Europe\"\>", Offset[{0, -2}, {3., 0.}], NCache[
+           ImageScaled[{Rational[1, 2], 1}], ImageScaled[{0.5, 1}]], 
+           Automatic, {1, 0}]}, "GraphicsLabel",
+         StripOnInput->False]}, "GraphicsTicks",
+       StripOnInput->False]},
+     Antialiasing->False], "GraphicsAxes",
+    StripOnInput->False]},
   AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
   Axes->{False, True},
   AxesLabel->{None, None},
@@ -551,14 +1373,13 @@ Cell[BoxData[
      Scaled[0.05]}},
   Ticks->{None, Automatic}]], "Output",
  CellChangeTimes->{3.962989570396628*^9, 3.9629896140635357`*^9, 
-  3.9629896778086042`*^9},
- CellLabel->"Out[25]=",ExpressionUUID->"3bdc9fb6-c4cd-46ad-857b-ff9737c80da8"]
+  3.9629896778086042`*^9, 3.9798075933276873`*^9},
+ CellLabel->"Out[10]=",ExpressionUUID->"b49751db-3ddc-469d-a008-5ab9a3259d0e"]
 }, Open  ]],
 
 Cell[BoxData[""], "Input",
- CellChangeTimes->{{3.962989700290227*^9, 
-  3.962989704614208*^9}},ExpressionUUID->"4a0206d8-83c9-41b8-a077-\
-3c89ffad360d"],
+ CellChangeTimes->{{3.962989700290227*^9, 3.962989704614208*^9}},
+ CellLabel->"In[11]:=",ExpressionUUID->"4a0206d8-83c9-41b8-a077-3c89ffad360d"],
 
 Cell[CellGroupData[{
 
@@ -585,31 +1406,40 @@ Cell[BoxData[{
   RowBox[{"dataSouthAmerica", ",", " ", "3"}], "]"}]}], "Input",
  CellChangeTimes->{{3.96298971409562*^9, 3.962989728331492*^9}, {
   3.962989782542593*^9, 3.96298981658327*^9}},
- CellLabel->"In[26]:=",ExpressionUUID->"5c42a043-4910-49b9-a62f-eb919e7226c0"],
+ CellLabel->"In[12]:=",ExpressionUUID->"5c42a043-4910-49b9-a62f-eb919e7226c0"],
 
 Cell[BoxData[
  RowBox[{"{", 
   RowBox[{
    RowBox[{"{", 
     RowBox[{
-     RowBox[{"Entity", "[", 
-      RowBox[{"\<\"Country\"\>", ",", "\<\"Argentina\"\>"}], "]"}], ",", 
-     TemplateBox[{"76.813`","\"yr\"","years","\"Years\""},
+     TemplateBox[{"\"Argentina\"", 
+       RowBox[{"Entity", "[", 
+         RowBox[{"\"Country\"", ",", "\"Argentina\""}], "]"}], 
+       "\"Entity[\\\"Country\\\", \\\"Argentina\\\"]\"", "\"country\""},
+      "Entity"], ",", 
+     TemplateBox[{"76.813`", "\"yr\"", "years", "\"Years\""},
       "Quantity"]}], "}"}], ",", 
    RowBox[{"{", 
     RowBox[{
-     RowBox[{"Entity", "[", 
-      RowBox[{"\<\"Country\"\>", ",", "\<\"Bolivia\"\>"}], "]"}], ",", 
-     TemplateBox[{"71.771`","\"yr\"","years","\"Years\""},
+     TemplateBox[{"\"Bolivia\"", 
+       RowBox[{"Entity", "[", 
+         RowBox[{"\"Country\"", ",", "\"Bolivia\""}], "]"}], 
+       "\"Entity[\\\"Country\\\", \\\"Bolivia\\\"]\"", "\"country\""},
+      "Entity"], ",", 
+     TemplateBox[{"71.771`", "\"yr\"", "years", "\"Years\""},
       "Quantity"]}], "}"}], ",", 
    RowBox[{"{", 
     RowBox[{
-     RowBox[{"Entity", "[", 
-      RowBox[{"\<\"Country\"\>", ",", "\<\"Brazil\"\>"}], "]"}], ",", 
-     TemplateBox[{"76.084`","\"yr\"","years","\"Years\""},
+     TemplateBox[{"\"Brazil\"", 
+       RowBox[{"Entity", "[", 
+         RowBox[{"\"Country\"", ",", "\"Brazil\""}], "]"}], 
+       "\"Entity[\\\"Country\\\", \\\"Brazil\\\"]\"", "\"country\""},
+      "Entity"], ",", 
+     TemplateBox[{"76.084`", "\"yr\"", "years", "\"Years\""},
       "Quantity"]}], "}"}]}], "}"}]], "Output",
- CellChangeTimes->{3.96298981838172*^9},
- CellLabel->"Out[27]=",ExpressionUUID->"11425258-97b4-4134-be86-d020503336ef"]
+ CellChangeTimes->{3.96298981838172*^9, 3.9798075934546604`*^9},
+ CellLabel->"Out[13]=",ExpressionUUID->"eb1ab583-0dd6-4500-892c-7a38cae7fa5d"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -624,32 +1454,20 @@ Cell[BoxData[
      RowBox[{"All", ",", " ", "1"}], "\[RightDoubleBracket]"}]}], ",", " ", 
    RowBox[{"BarOrigin", " ", "\[Rule]", " ", "Left"}]}], "]"}]], "Input",
  CellChangeTimes->{{3.962989842605091*^9, 3.9629899111184473`*^9}},
- CellLabel->"In[29]:=",ExpressionUUID->"10e782b4-deaa-49bc-aa7e-f850020aa304"],
+ CellLabel->"In[14]:=",ExpressionUUID->"10e782b4-deaa-49bc-aa7e-f850020aa304"],
 
 Cell[BoxData[
  GraphicsBox[{
    {Opacity[0], 
-    PointBox[{{0., 0.2871198568872987}, {0., 14.435461676069906`}}]}, {{}, 
+    PointBox[{{0., 0.28711985688729885`}, {0., 14.435461676069906`}}]}, {{}, 
     {RGBColor[0.982864, 0.7431472, 0.3262672], EdgeForm[{Opacity[0.602], 
      Thickness[Small]}], 
      {RGBColor[0.982864, 0.7431472, 0.3262672], EdgeForm[{Opacity[0.602], 
       Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0., 0.564538323930095}, {76.813, 1.435461676069905}, 
-            "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{223.1875, 844.3899168114987}, {
-           164.39972041167346`, 190.01139523456746`}}],
+        TagBox[RectangleBox[{0., 0.5645383239300951}, {76.813, 1.435461676069905},
+          RoundingRadius->0],
          StatusArea[#, 76.813]& ,
          TagBoxNote->"76.813"],
         StyleBox["76.813`", {}, StripOnInput -> False]],
@@ -659,20 +1477,8 @@ Cell[BoxData[
       Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0., 1.564538323930095}, {71.771, 2.435461676069905}, 
-            "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{223.1875, 803.6552581526313}, {
-           135.70985377587468`, 161.32152859876865`}}],
+        TagBox[RectangleBox[{0., 1.564538323930095}, {71.771, 2.435461676069905},
+          RoundingRadius->0],
          StatusArea[#, 71.771]& ,
          TagBoxNote->"71.771"],
         StyleBox["71.771`", {}, StripOnInput -> False]],
@@ -682,20 +1488,8 @@ Cell[BoxData[
       Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0., 2.564538323930095}, {76.084, 3.435461676069905}, 
-            "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{223.1875, 838.5002765571721}, {107.0199871400759, 
-           132.63166196296987`}}],
+        TagBox[RectangleBox[{0., 2.564538323930095}, {76.084, 3.435461676069905},
+          RoundingRadius->0],
          StatusArea[#, 76.084]& ,
          TagBoxNote->"76.084"],
         StyleBox["76.084`", {}, StripOnInput -> False]],
@@ -705,20 +1499,8 @@ Cell[BoxData[
       Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0., 3.564538323930095}, {80.329, 4.435461676069905}, 
-            "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{223.1875, 872.7959183673449}, {78.3301205042771, 
-           103.94179532717108`}}],
+        TagBox[RectangleBox[{0., 3.564538323930095}, {80.329, 4.435461676069905},
+          RoundingRadius->0],
          StatusArea[#, 80.329]& ,
          TagBoxNote->"80.329"],
         StyleBox["80.329`", {}, StripOnInput -> False]],
@@ -728,19 +1510,8 @@ Cell[BoxData[
       Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0., 4.564538323930095}, {77.46, 5.435461676069905}, 
-            "RoundingRadius" -> 0]},
-          ImageSizeCache->{{223.1875, 849.6170735255579}, {49.64025386847831, 
-           75.25192869137229}}],
+        TagBox[RectangleBox[{0., 4.564538323930095}, {77.46, 5.435461676069905},
+          RoundingRadius->0],
          StatusArea[#, 77.46]& ,
          TagBoxNote->"77.46"],
         StyleBox["77.46`", {}, StripOnInput -> False]],
@@ -750,20 +1521,8 @@ Cell[BoxData[
       Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0., 5.564538323930095}, {77.216, 6.435461676069905}, 
-            "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{223.1875, 847.6457810398848}, {20.95038723267953, 
-           46.562062055573506`}}],
+        TagBox[RectangleBox[{0., 5.564538323930095}, {77.216, 6.435461676069905},
+          RoundingRadius->0],
          StatusArea[#, 77.216]& ,
          TagBoxNote->"77.216"],
         StyleBox["77.216`", {}, StripOnInput -> False]],
@@ -773,20 +1532,8 @@ Cell[BoxData[
       Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0., 6.564538323930095}, {77.9, 7.435461676069905}, 
-            "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{223.1875, 853.1718632538209}, {-7.739479403119276,
-            17.872195419774698`}}],
+        TagBox[RectangleBox[{0., 6.564538323930095}, {77.9, 7.435461676069905},
+          RoundingRadius->0],
          StatusArea[#, 77.9]& ,
          TagBoxNote->"77.9"],
         StyleBox["77.9`", {}, StripOnInput -> False]],
@@ -796,21 +1543,8 @@ Cell[BoxData[
       Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0., 7.564538323930095}, {80.093, 8.435461676069906}, 
-            "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{223.1875, 
-           870.8892584221859}, {-36.429346038918084`, -10.817671216024081`}}],
-         
+        TagBox[RectangleBox[{0., 7.564538323930095}, {80.093, 8.435461676069906},
+          RoundingRadius->0],
          StatusArea[#, 80.093]& ,
          TagBoxNote->"80.093"],
         StyleBox["80.093`", {}, StripOnInput -> False]],
@@ -820,20 +1554,8 @@ Cell[BoxData[
       Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0., 8.564538323930096}, {70.023, 9.435461676069906}, 
-            "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{223.1875, 
-           789.5330480503504}, {-65.11921267471689, -39.50753785182289}}],
+        TagBox[RectangleBox[{0., 8.564538323930096}, {70.023, 9.435461676069906},
+          RoundingRadius->0],
          StatusArea[#, 70.023]& ,
          TagBoxNote->"70.023"],
         StyleBox["70.023`", {}, StripOnInput -> False]],
@@ -843,20 +1565,8 @@ Cell[BoxData[
       Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0., 9.564538323930096}, {74.363, 
-            10.435461676069906`}, "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{223.1875, 
-           824.5962012791256}, {-93.80907931051564, -68.19740448762167}}],
+        TagBox[RectangleBox[{0., 9.564538323930096}, {74.363, 10.435461676069906},
+          RoundingRadius->0],
          StatusArea[#, 74.363]& ,
          TagBoxNote->"74.363"],
         StyleBox["74.363`", {}, StripOnInput -> False]],
@@ -866,20 +1576,8 @@ Cell[BoxData[
       Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0., 10.564538323930096`}, {76.947, 
-            11.435461676069906`}, "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{223.1875, 
-           845.472511865106}, {-122.49894594631445`, -96.88727112342048}}],
+        TagBox[RectangleBox[{0., 10.564538323930096}, {76.947, 11.435461676069906},
+          RoundingRadius->0],
          StatusArea[#, 76.947]& ,
          TagBoxNote->"76.947"],
         StyleBox["76.947`", {}, StripOnInput -> False]],
@@ -889,21 +1587,8 @@ Cell[BoxData[
       Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0., 11.564538323930096`}, {71.802, 
-            12.435461676069906`}, "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{223.1875, 
-           803.9057092471226}, {-151.18881258211326`, -125.57713775921928`}}],
-         
+        TagBox[RectangleBox[{0., 11.564538323930096}, {71.802, 12.435461676069906},
+          RoundingRadius->0],
          StatusArea[#, 71.802]& ,
          TagBoxNote->"71.802"],
         StyleBox["71.802`", {}, StripOnInput -> False]],
@@ -913,20 +1598,8 @@ Cell[BoxData[
       Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0., 12.564538323930096`}, {78.056, 
-            13.435461676069906`}, "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{223.1875, 
-           854.4321977938413}, {-179.878679217912, -154.26700439501803`}}],
+        TagBox[RectangleBox[{0., 12.564538323930096}, {78.056, 13.435461676069906},
+          RoundingRadius->0],
          StatusArea[#, 78.056]& ,
          TagBoxNote->"78.056"],
         StyleBox["78.056`", {}, StripOnInput -> False]],
@@ -936,150 +1609,194 @@ Cell[BoxData[
       Thickness[Small]}], 
       TagBox[
        TooltipBox[
-        TagBox[
-         DynamicBox[{
-           FEPrivate`If[
-            CurrentValue["MouseOver"], 
-            EdgeForm[{
-              GrayLevel[0.5], 
-              AbsoluteThickness[1.5], 
-              Opacity[0.66]}], {}, {}], 
-           
-           RectangleBox[{0., 13.564538323930096`}, {72.066, 
-            14.435461676069906`}, "RoundingRadius" -> 0]},
-          
-          ImageSizeCache->{{223.1875, 
-           806.0385830840803}, {-208.56854585371082`, -182.95687103081684`}}],
-         
+        TagBox[RectangleBox[{0., 13.564538323930096}, {72.066, 14.435461676069906},
+          RoundingRadius->0],
          StatusArea[#, 72.066]& ,
          TagBoxNote->"72.066"],
         StyleBox["72.066`", {}, StripOnInput -> False]],
        Annotation[#, 
         Style[72.066, {}], "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-   StyleBox[{
-     {Thickness[Tiny], 
-      LineBox[{{0., 0.2871198568872987}, {0., 14.718428512453555`}}], 
-      StyleBox[{}, "GraphicsLabel",
-       StripOnInput->False]}, 
-     StyleBox[{
-       {Thickness[Tiny], 
-        LineBox[{{0., 0.564538323930095}, 
-          Offset[{-6., 0.}, {0., 0.564538323930095}]}], 
-        LineBox[{{0., 14.435461676069902`}, 
-          Offset[{-6., 0.}, {0., 
-           14.435461676069902`}]}], {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
+   StyleBox[
+    StyleBox[{
+      {Thickness[Tiny], 
+       LineBox[{{0., 0.28711985688729885`}, {0., 14.71842851245356}}], 
+       StyleBox[{}, "GraphicsLabel",
+        StripOnInput->False]}, 
+      StyleBox[{
+        {Thickness[Tiny], 
+         LineBox[{{0., 0.5645383239300951}, 
+           Offset[{-6., 0.}, {0., 0.5645383239300951}]}], 
+         LineBox[{{0., 14.435461676069908`}, 
+           Offset[{-6., 0.}, {0., 
+            14.435461676069908`}]}], {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
 {}, {}, {}, {}, {
-          LineBox[{{0., 1.435461676069905}, 
-            Offset[{-4., 0.}, {0., 1.435461676069905}]}], 
-          LineBox[{{0., 1.564538323930095}, 
-            Offset[{-4., 0.}, {0., 1.564538323930095}]}], 
-          LineBox[{{0., 2.435461676069905}, 
-            Offset[{-4., 0.}, {0., 2.435461676069905}]}], 
-          LineBox[{{0., 2.564538323930095}, 
-            Offset[{-4., 0.}, {0., 2.564538323930095}]}], 
-          LineBox[{{0., 3.4354616760699046`}, 
-            Offset[{-4., 0.}, {0., 3.4354616760699046`}]}], 
-          LineBox[{{0., 3.5645383239300945`}, 
-            Offset[{-4., 0.}, {0., 3.5645383239300945`}]}], 
-          LineBox[{{0., 4.435461676069904}, 
-            Offset[{-4., 0.}, {0., 4.435461676069904}]}], 
-          LineBox[{{0., 4.564538323930094}, 
-            Offset[{-4., 0.}, {0., 4.564538323930094}]}], 
-          LineBox[{{0., 5.435461676069904}, 
-            Offset[{-4., 0.}, {0., 5.435461676069904}]}], 
-          LineBox[{{0., 5.564538323930094}, 
-            Offset[{-4., 0.}, {0., 5.564538323930094}]}], 
-          LineBox[{{0., 6.435461676069904}, 
-            Offset[{-4., 0.}, {0., 6.435461676069904}]}], 
-          LineBox[{{0., 6.564538323930094}, 
-            Offset[{-4., 0.}, {0., 6.564538323930094}]}], 
-          LineBox[{{0., 7.435461676069904}, 
-            Offset[{-4., 0.}, {0., 7.435461676069904}]}], 
-          LineBox[{{0., 7.564538323930094}, 
-            Offset[{-4., 0.}, {0., 7.564538323930094}]}], 
-          LineBox[{{0., 8.435461676069906}, 
-            Offset[{-4., 0.}, {0., 8.435461676069906}]}], 
-          LineBox[{{0., 8.564538323930094}, 
-            Offset[{-4., 0.}, {0., 8.564538323930094}]}], 
-          LineBox[{{0., 9.435461676069902}, 
-            Offset[{-4., 0.}, {0., 9.435461676069902}]}], 
-          LineBox[{{0., 9.564538323930094}, 
-            Offset[{-4., 0.}, {0., 9.564538323930094}]}], 
-          LineBox[{{0., 10.435461676069902`}, 
-            Offset[{-4., 0.}, {0., 10.435461676069902`}]}], 
-          LineBox[{{0., 10.564538323930094`}, 
-            Offset[{-4., 0.}, {0., 10.564538323930094`}]}], 
-          LineBox[{{0., 11.435461676069902`}, 
-            Offset[{-4., 0.}, {0., 11.435461676069902`}]}], 
-          LineBox[{{0., 11.564538323930094`}, 
-            Offset[{-4., 0.}, {0., 11.564538323930094`}]}], 
-          LineBox[{{0., 12.435461676069902`}, 
-            Offset[{-4., 0.}, {0., 12.435461676069902`}]}], 
-          LineBox[{{0., 12.564538323930094`}, 
-            Offset[{-4., 0.}, {0., 12.564538323930094`}]}], 
-          LineBox[{{0., 13.435461676069902`}, 
-            Offset[{-4., 0.}, {0., 13.435461676069902`}]}], 
-          LineBox[{{0., 13.564538323930094`}, 
-            Offset[{-4., 0.}, {0., 13.564538323930094`}]}]}, {}}}, 
-       StyleBox[
-        {Thickness[Tiny], InsetBox[
-          RowBox[{"Entity", "[", 
-           RowBox[{"\<\"Country\"\>", ",", "\<\"Argentina\"\>"}], "]"}], 
-          Offset[{-2, 0}, {0., 1.}], {1, 0}, Automatic, {1, 0}], InsetBox[
-          RowBox[{"Entity", "[", 
-           RowBox[{"\<\"Country\"\>", ",", "\<\"Bolivia\"\>"}], "]"}], 
-          Offset[{-2, 0}, {0., 1.9999999999999998}], {1, 0}, Automatic, {1, 
-          0}], InsetBox[
-          RowBox[{"Entity", "[", 
-           RowBox[{"\<\"Country\"\>", ",", "\<\"Brazil\"\>"}], "]"}], 
-          Offset[{-2, 0}, {0., 2.9999999999999996}], {1, 0}, Automatic, {1, 
-          0}], InsetBox[
-          RowBox[{"Entity", "[", 
-           RowBox[{"\<\"Country\"\>", ",", "\<\"Chile\"\>"}], "]"}], 
-          Offset[{-2, 0}, {0., 3.9999999999999996}], {1, 0}, Automatic, {1, 
-          0}], InsetBox[
-          RowBox[{"Entity", "[", 
-           RowBox[{"\<\"Country\"\>", ",", "\<\"Colombia\"\>"}], "]"}], 
-          Offset[{-2, 0}, {0., 4.999999999999999}], {1, 0}, Automatic, {1, 
-          0}], InsetBox[
-          RowBox[{"Entity", "[", 
-           RowBox[{"\<\"Country\"\>", ",", "\<\"Ecuador\"\>"}], "]"}], 
-          Offset[{-2, 0}, {0., 5.999999999999999}], {1, 0}, Automatic, {1, 
-          0}], InsetBox[
-          RowBox[{"Entity", "[", 
-           RowBox[{"\<\"Country\"\>", ",", "\<\"FalklandIslands\"\>"}], "]"}],
-           Offset[{-2, 0}, {0., 6.999999999999999}], {1, 0}, Automatic, {1, 
-          0}], InsetBox[
-          RowBox[{"Entity", "[", 
-           RowBox[{"\<\"Country\"\>", ",", "\<\"FrenchGuiana\"\>"}], "]"}], 
-          Offset[{-2, 0}, {0., 8.}], {1, 0}, Automatic, {1, 0}], InsetBox[
-          RowBox[{"Entity", "[", 
-           RowBox[{"\<\"Country\"\>", ",", "\<\"Guyana\"\>"}], "]"}], 
-          Offset[{-2, 0}, {0., 9.}], {1, 0}, Automatic, {1, 0}], InsetBox[
-          RowBox[{"Entity", "[", 
-           RowBox[{"\<\"Country\"\>", ",", "\<\"Paraguay\"\>"}], "]"}], 
-          Offset[{-2, 0}, {0., 10.}], {1, 0}, Automatic, {1, 0}], InsetBox[
-          RowBox[{"Entity", "[", 
-           RowBox[{"\<\"Country\"\>", ",", "\<\"Peru\"\>"}], "]"}], 
-          Offset[{-2, 0}, {0., 11.}], {1, 0}, Automatic, {1, 0}], InsetBox[
-          RowBox[{"Entity", "[", 
-           RowBox[{"\<\"Country\"\>", ",", "\<\"Suriname\"\>"}], "]"}], 
-          Offset[{-2, 0}, {0., 12.}], {1, 0}, Automatic, {1, 0}], InsetBox[
-          RowBox[{"Entity", "[", 
-           RowBox[{"\<\"Country\"\>", ",", "\<\"Uruguay\"\>"}], "]"}], 
-          Offset[{-2, 0}, {0., 13.}], {1, 0}, Automatic, {1, 0}], InsetBox[
-          RowBox[{"Entity", "[", 
-           RowBox[{"\<\"Country\"\>", ",", "\<\"Venezuela\"\>"}], "]"}], 
-          Offset[{-2, 0}, {0., 14.}], {1, 0}, Automatic, {1, 0}]}, 
-        "GraphicsLabel",
-        StripOnInput->False]}, "GraphicsTicks",
-      StripOnInput->False]}, "GraphicsAxes",
-    StripOnInput->False,
-    Antialiasing->False]},
+           LineBox[{{0., 1.435461676069905}, 
+             Offset[{-4., 0.}, {0., 1.435461676069905}]}], 
+           LineBox[{{0., 1.564538323930095}, 
+             Offset[{-4., 0.}, {0., 1.564538323930095}]}], 
+           LineBox[{{0., 2.435461676069905}, 
+             Offset[{-4., 0.}, {0., 2.435461676069905}]}], 
+           LineBox[{{0., 2.564538323930095}, 
+             Offset[{-4., 0.}, {0., 2.564538323930095}]}], 
+           LineBox[{{0., 3.435461676069905}, 
+             Offset[{-4., 0.}, {0., 3.435461676069905}]}], 
+           LineBox[{{0., 3.564538323930095}, 
+             Offset[{-4., 0.}, {0., 3.564538323930095}]}], 
+           LineBox[{{0., 4.435461676069905}, 
+             Offset[{-4., 0.}, {0., 4.435461676069905}]}], 
+           LineBox[{{0., 4.564538323930095}, 
+             Offset[{-4., 0.}, {0., 4.564538323930095}]}], 
+           LineBox[{{0., 5.435461676069905}, 
+             Offset[{-4., 0.}, {0., 5.435461676069905}]}], 
+           LineBox[{{0., 5.564538323930095}, 
+             Offset[{-4., 0.}, {0., 5.564538323930095}]}], 
+           LineBox[{{0., 6.435461676069905}, 
+             Offset[{-4., 0.}, {0., 6.435461676069905}]}], 
+           LineBox[{{0., 6.564538323930095}, 
+             Offset[{-4., 0.}, {0., 6.564538323930095}]}], 
+           LineBox[{{0., 7.435461676069905}, 
+             Offset[{-4., 0.}, {0., 7.435461676069905}]}], 
+           LineBox[{{0., 7.564538323930095}, 
+             Offset[{-4., 0.}, {0., 7.564538323930095}]}], 
+           LineBox[{{0., 8.435461676069906}, 
+             Offset[{-4., 0.}, {0., 8.435461676069906}]}], 
+           LineBox[{{0., 8.564538323930098}, 
+             Offset[{-4., 0.}, {0., 8.564538323930098}]}], 
+           LineBox[{{0., 9.435461676069908}, 
+             Offset[{-4., 0.}, {0., 9.435461676069908}]}], 
+           LineBox[{{0., 9.564538323930098}, 
+             Offset[{-4., 0.}, {0., 9.564538323930098}]}], 
+           LineBox[{{0., 10.435461676069908`}, 
+             Offset[{-4., 0.}, {0., 10.435461676069908`}]}], 
+           LineBox[{{0., 10.564538323930098`}, 
+             Offset[{-4., 0.}, {0., 10.564538323930098`}]}], 
+           LineBox[{{0., 11.435461676069908`}, 
+             Offset[{-4., 0.}, {0., 11.435461676069908`}]}], 
+           LineBox[{{0., 11.564538323930098`}, 
+             Offset[{-4., 0.}, {0., 11.564538323930098`}]}], 
+           LineBox[{{0., 12.435461676069908`}, 
+             Offset[{-4., 0.}, {0., 12.435461676069908`}]}], 
+           LineBox[{{0., 12.564538323930098`}, 
+             Offset[{-4., 0.}, {0., 12.564538323930098`}]}], 
+           LineBox[{{0., 13.435461676069908`}, 
+             Offset[{-4., 0.}, {0., 13.435461676069908`}]}], 
+           LineBox[{{0., 13.564538323930098`}, 
+             Offset[{-4., 0.}, {0., 13.564538323930098`}]}]}, {}}}, 
+        StyleBox[
+         {Thickness[Tiny], InsetBox[
+           TemplateBox[{"\"Argentina\"", 
+             RowBox[{"Entity", "[", 
+               RowBox[{"\"Country\"", ",", "\"Argentina\""}], "]"}], 
+             "\"Entity[\\\"Country\\\", \\\"Argentina\\\"]\""},
+            "EntityTraditionalFramed"], Offset[{-2, 0}, {0., 1.}], NCache[
+           ImageScaled[{1, Rational[1, 2]}], ImageScaled[{1, 0.5}]], 
+           Automatic, {1, 0}], InsetBox[
+           TemplateBox[{"\"Bolivia\"", 
+             RowBox[{"Entity", "[", 
+               RowBox[{"\"Country\"", ",", "\"Bolivia\""}], "]"}], 
+             "\"Entity[\\\"Country\\\", \\\"Bolivia\\\"]\""},
+            "EntityTraditionalFramed"], Offset[{-2, 0}, {0., 2.}], NCache[
+           ImageScaled[{1, Rational[1, 2]}], ImageScaled[{1, 0.5}]], 
+           Automatic, {1, 0}], InsetBox[
+           TemplateBox[{"\"Brazil\"", 
+             RowBox[{"Entity", "[", 
+               RowBox[{"\"Country\"", ",", "\"Brazil\""}], "]"}], 
+             "\"Entity[\\\"Country\\\", \\\"Brazil\\\"]\""},
+            "EntityTraditionalFramed"], Offset[{-2, 0}, {0., 3.}], NCache[
+           ImageScaled[{1, Rational[1, 2]}], ImageScaled[{1, 0.5}]], 
+           Automatic, {1, 0}], InsetBox[
+           TemplateBox[{"\"Chile\"", 
+             RowBox[{"Entity", "[", 
+               RowBox[{"\"Country\"", ",", "\"Chile\""}], "]"}], 
+             "\"Entity[\\\"Country\\\", \\\"Chile\\\"]\""},
+            "EntityTraditionalFramed"], Offset[{-2, 0}, {0., 4.}], NCache[
+           ImageScaled[{1, Rational[1, 2]}], ImageScaled[{1, 0.5}]], 
+           Automatic, {1, 0}], InsetBox[
+           TemplateBox[{"\"Colombia\"", 
+             RowBox[{"Entity", "[", 
+               RowBox[{"\"Country\"", ",", "\"Colombia\""}], "]"}], 
+             "\"Entity[\\\"Country\\\", \\\"Colombia\\\"]\""},
+            "EntityTraditionalFramed"], Offset[{-2, 0}, {0., 5.}], NCache[
+           ImageScaled[{1, Rational[1, 2]}], ImageScaled[{1, 0.5}]], 
+           Automatic, {1, 0}], InsetBox[
+           TemplateBox[{"\"Ecuador\"", 
+             RowBox[{"Entity", "[", 
+               RowBox[{"\"Country\"", ",", "\"Ecuador\""}], "]"}], 
+             "\"Entity[\\\"Country\\\", \\\"Ecuador\\\"]\""},
+            "EntityTraditionalFramed"], Offset[{-2, 0}, {0., 6.}], NCache[
+           ImageScaled[{1, Rational[1, 2]}], ImageScaled[{1, 0.5}]], 
+           Automatic, {1, 0}], InsetBox[
+           TemplateBox[{"\"Falkland Islands\"", 
+             RowBox[{"Entity", "[", 
+               RowBox[{"\"Country\"", ",", "\"FalklandIslands\""}], "]"}], 
+             "\"Entity[\\\"Country\\\", \\\"FalklandIslands\\\"]\""},
+            "EntityTraditionalFramed"], Offset[{-2, 0}, {0., 7.}], NCache[
+           ImageScaled[{1, Rational[1, 2]}], ImageScaled[{1, 0.5}]], 
+           Automatic, {1, 0}], InsetBox[
+           TemplateBox[{"\"French Guiana\"", 
+             RowBox[{"Entity", "[", 
+               RowBox[{"\"Country\"", ",", "\"FrenchGuiana\""}], "]"}], 
+             "\"Entity[\\\"Country\\\", \\\"FrenchGuiana\\\"]\""},
+            "EntityTraditionalFramed"], 
+           Offset[{-2, 0}, {0., 8.000000000000002}], NCache[
+           ImageScaled[{1, Rational[1, 2]}], ImageScaled[{1, 0.5}]], 
+           Automatic, {1, 0}], InsetBox[
+           TemplateBox[{"\"Guyana\"", 
+             RowBox[{"Entity", "[", 
+               RowBox[{"\"Country\"", ",", "\"Guyana\""}], "]"}], 
+             "\"Entity[\\\"Country\\\", \\\"Guyana\\\"]\""},
+            "EntityTraditionalFramed"], 
+           Offset[{-2, 0}, {0., 9.000000000000002}], NCache[
+           ImageScaled[{1, Rational[1, 2]}], ImageScaled[{1, 0.5}]], 
+           Automatic, {1, 0}], InsetBox[
+           TemplateBox[{"\"Paraguay\"", 
+             RowBox[{"Entity", "[", 
+               RowBox[{"\"Country\"", ",", "\"Paraguay\""}], "]"}], 
+             "\"Entity[\\\"Country\\\", \\\"Paraguay\\\"]\""},
+            "EntityTraditionalFramed"], 
+           Offset[{-2, 0}, {0., 10.000000000000002}], NCache[
+           ImageScaled[{1, Rational[1, 2]}], ImageScaled[{1, 0.5}]], 
+           Automatic, {1, 0}], InsetBox[
+           TemplateBox[{"\"Peru\"", 
+             RowBox[{"Entity", "[", 
+               RowBox[{"\"Country\"", ",", "\"Peru\""}], "]"}], 
+             "\"Entity[\\\"Country\\\", \\\"Peru\\\"]\""},
+            "EntityTraditionalFramed"], 
+           Offset[{-2, 0}, {0., 11.000000000000002}], NCache[
+           ImageScaled[{1, Rational[1, 2]}], ImageScaled[{1, 0.5}]], 
+           Automatic, {1, 0}], InsetBox[
+           TemplateBox[{"\"Suriname\"", 
+             RowBox[{"Entity", "[", 
+               RowBox[{"\"Country\"", ",", "\"Suriname\""}], "]"}], 
+             "\"Entity[\\\"Country\\\", \\\"Suriname\\\"]\""},
+            "EntityTraditionalFramed"], 
+           Offset[{-2, 0}, {0., 12.000000000000002}], NCache[
+           ImageScaled[{1, Rational[1, 2]}], ImageScaled[{1, 0.5}]], 
+           Automatic, {1, 0}], InsetBox[
+           TemplateBox[{"\"Uruguay\"", 
+             RowBox[{"Entity", "[", 
+               RowBox[{"\"Country\"", ",", "\"Uruguay\""}], "]"}], 
+             "\"Entity[\\\"Country\\\", \\\"Uruguay\\\"]\""},
+            "EntityTraditionalFramed"], 
+           Offset[{-2, 0}, {0., 13.000000000000002}], NCache[
+           ImageScaled[{1, Rational[1, 2]}], ImageScaled[{1, 0.5}]], 
+           Automatic, {1, 0}], InsetBox[
+           TemplateBox[{"\"Venezuela\"", 
+             RowBox[{"Entity", "[", 
+               RowBox[{"\"Country\"", ",", "\"Venezuela\""}], "]"}], 
+             "\"Entity[\\\"Country\\\", \\\"Venezuela\\\"]\""},
+            "EntityTraditionalFramed"], 
+           Offset[{-2, 0}, {0., 14.000000000000002}], NCache[
+           ImageScaled[{1, Rational[1, 2]}], ImageScaled[{1, 0.5}]], 
+           Automatic, {1, 0}]}, "GraphicsLabel",
+         StripOnInput->False]}, "GraphicsTicks",
+       StripOnInput->False]},
+     Antialiasing->False], "GraphicsAxes",
+    StripOnInput->False]},
   AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
   Axes->{True, False},
   AxesLabel->{None, None},
-  AxesOrigin->{0., 0.2871198568872987},
+  AxesOrigin->{0., 0.28711985688729885`},
   CoordinatesToolOptions:>{"DisplayFunction" -> ({
       Identity[
        Part[#, 1]], 
@@ -1099,12 +1816,13 @@ Cell[BoxData[
   PlotRange->{{All, All}, {All, All}},
   PlotRangePadding->{{
      Scaled[0.02], 
-     Scaled[0.05]}, {
+     Scaled[0.02]}, {
      Scaled[0.02], 
-     Scaled[0.02]}},
+     Scaled[0.05]}},
   Ticks->{Automatic, None}]], "Output",
- CellChangeTimes->{{3.962989900768075*^9, 3.96298991995679*^9}},
- CellLabel->"Out[29]=",ExpressionUUID->"1b6e6fad-695f-41ab-a238-bd849a9247f1"]
+ CellChangeTimes->{{3.962989900768075*^9, 3.96298991995679*^9}, 
+   3.97980759396817*^9},
+ CellLabel->"Out[14]=",ExpressionUUID->"c60dad63-e2c8-4f19-a4f2-c2923dccb628"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1113,24 +1831,423 @@ Cell[BoxData[
  RowBox[{"?", "Tooltip"}]], "Input",
  CellChangeTimes->{{3.963059120730254*^9, 3.963059130129305*^9}, {
   3.963059176482374*^9, 3.9630591784440613`*^9}},
- CellLabel->"In[1]:=",ExpressionUUID->"43d20090-88ab-4d5e-8a5a-91bb741ed79a"],
+ CellLabel->"In[15]:=",ExpressionUUID->"43d20090-88ab-4d5e-8a5a-91bb741ed79a"],
 
 Cell[BoxData[
- RowBox[{"\<\"\\!\\(\\*RowBox[{\\\"Tooltip\\\", \\\"[\\\", \
+ InterpretationBox[
+  StyleBox[
+   FrameBox[
+    DynamicModuleBox[{System`InformationDump`open$$ = False, 
+     System`InformationDump`mouseOver$$ = False}, 
+     PaneSelectorBox[{True->
+      TagBox[GridBox[{
+         {
+          ItemBox[
+           PaneBox[
+            StyleBox["\<\" Symbol\"\>", "InformationTitleText",
+             StripOnInput->False,
+             BaseStyle -> None],
+            FrameMargins->{{4, 0}, {-1, 1}}],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False], 
+          ItemBox[
+           PaneBox[
+            TooltipBox[
+             ButtonBox[
+              PaneSelectorBox[{False->
+               
+               DynamicBox[FEPrivate`FrontEndResource[
+                "FEBitmaps", "InformationHelpIcon"]], True->
+               
+               DynamicBox[FEPrivate`FrontEndResource[
+                "FEBitmaps", "InformationHelpIconHot"]]}, Dynamic[
+                CurrentValue["MouseOver"]]],
+              Appearance->None,
+              BaseStyle->"Link",
+              ButtonData->"paclet:ref/Tooltip",
+              ButtonNote->"paclet:ref/Tooltip"],
+             "\"paclet:ref/Tooltip\""],
+            FrameMargins->{{0, 4}, {0, 2}}],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False]},
+         {
+          ItemBox[
+           PaneBox[
+            
+            StyleBox["\<\"\\!\\(\\*RowBox[{\\\"Tooltip\\\", \\\"[\\\", \
 RowBox[{StyleBox[\\\"expr\\\", \\\"TI\\\"], \\\",\\\", \
 StyleBox[\\\"label\\\", \\\"TI\\\"]}], \\\"]\\\"}]\\) displays \
 \\!\\(\\*StyleBox[\\\"label\\\", \\\"TI\\\"]\\) as a tooltip while the mouse \
 pointer is in the area where \\!\\(\\*StyleBox[\\\"expr\\\", \\\"TI\\\"]\\) \
-is displayed. \"\>", "\[NonBreakingSpace]", 
-  ButtonBox[
-   StyleBox["\[RightSkeleton]", "SR"],
-   Active->True,
-   BaseStyle->"Link",
-   ButtonData->"paclet:ref/Tooltip"]}]], "Print", "PrintUsage",
- CellChangeTimes->{3.963059179370028*^9},
- CellTags->
-  "Info13963066379-8858613",ExpressionUUID->"4c2fde9c-7d58-49d2-997a-\
-e1bf220dd1c6"]
+is displayed. \"\>", "InformationUsageText",
+             StripOnInput->False,
+             LineSpacing->{1.5, 1.5, 3.}],
+            FrameMargins->{{10, 10}, {8, 10}}],
+           BaseStyle->"InformationUsageSubtitleBackground",
+           StripOnInput->False], 
+          ItemBox["\<\"\"\>",
+           BaseStyle->"InformationUsageSubtitleBackground",
+           StripOnInput->False]},
+         {
+          PaneBox[GridBox[{
+             {
+              
+              DynamicModuleBox[{System`InformationDump`open$$ = {
+               False, False, False, False, False, False}}, 
+               StyleBox[GridBox[{
+                  {
+                   TagBox[
+                    TooltipBox[
+                    StyleBox["\<\" Documentation\"\>", "InformationRowLabel",
+                    StripOnInput->False],
+                    "\"Documentation\"",
+                    TooltipStyle->"TextStyling"],
+                    Annotation[#, "Documentation", "Tooltip"]& ], 
+                   TemplateBox[{
+                    
+                    TemplateBox[{
+                    "\"Local \[RightGuillemet]\"", "paclet:ref/Tooltip", 
+                    "paclet:ref/Tooltip", "Link", {
+                    RGBColor[0.9686274509803922, 0.4666666666666667, 0.]}, 
+                    BaseStyle -> {
+                    RGBColor[0.0784313725490196, 0.1568627450980392, 0.6]}}, 
+                    "HyperlinkTemplate"], "\"  \"", 
+                    StyleBox[
+                    "\"|\"", "InformationRowLabel", StripOnInput -> False], 
+                    "\"  \"", 
+                    TemplateBox[{"\"Web \[RightGuillemet]\"", {
+                    URL[
+                    "http://reference.wolfram.com/language/ref/Tooltip.html"],
+                     None}, 
+                    "http://reference.wolfram.com/language/ref/Tooltip.html", 
+                    "Hyperlink", {
+                    RGBColor[0.9686274509803922, 0.4666666666666667, 0.]}, 
+                    BaseStyle -> {
+                    RGBColor[0.0784313725490196, 0.1568627450980392, 0.6]}}, 
+                    "HyperlinkTemplate"]},
+                    "RowDefault"]},
+                  {
+                   PaneSelectorBox[{True->
+                    ButtonBox[
+                    PaneSelectorBox[{False->
+                    TemplateBox[{"\[ThickSpace]", "\"\[ThickSpace]\"", 
+                    StyleBox[
+                    "\"Options\"", "InformationRowLabel", StripOnInput -> 
+                    False], 
+                    DynamicBox[
+                    FEPrivate`FrontEndResource[
+                    "FEBitmaps", "DownPointerOpener"]]},
+                    "RowWithSeparators"], True->
+                    TemplateBox[{"\[ThickSpace]", "\"\[ThickSpace]\"", 
+                    StyleBox[
+                    "\"Options\"", "InformationRowLabel", StripOnInput -> 
+                    False], 
+                    DynamicBox[
+                    FEPrivate`FrontEndResource[
+                    "FEBitmaps", "DownPointerOpenerHot"]]},
+                    "RowWithSeparators"]}, Dynamic[
+                    CurrentValue["MouseOver"]],
+                    FrameMargins->0,
+                    ImageSize->Automatic],
+                    Appearance->None,
+                    BaseStyle->None,
+                    
+                    ButtonFunction:>(Part[System`InformationDump`open$$, 3] = 
+                    False),
+                    Evaluator->Automatic,
+                    FrameMargins->0,
+                    ImageMargins->0,
+                    Method->"Preemptive"], False->
+                    ButtonBox[
+                    PaneSelectorBox[{False->
+                    TemplateBox[{"\[ThickSpace]", "\"\[ThickSpace]\"", 
+                    StyleBox[
+                    "\"Options\"", "InformationRowLabel", StripOnInput -> 
+                    False], 
+                    DynamicBox[
+                    FEPrivate`FrontEndResource[
+                    "FEBitmaps", "RightPointerOpener"]]},
+                    "RowWithSeparators"], True->
+                    TemplateBox[{"\[ThickSpace]", "\"\[ThickSpace]\"", 
+                    StyleBox[
+                    "\"Options\"", "InformationRowLabel", StripOnInput -> 
+                    False], 
+                    DynamicBox[
+                    FEPrivate`FrontEndResource[
+                    "FEBitmaps", "RightPointerOpenerHot"]]},
+                    "RowWithSeparators"]}, Dynamic[
+                    CurrentValue["MouseOver"]],
+                    FrameMargins->0,
+                    ImageSize->Automatic],
+                    Appearance->None,
+                    BaseStyle->None,
+                    
+                    ButtonFunction:>(Part[System`InformationDump`open$$, 3] = 
+                    True),
+                    Evaluator->Automatic,
+                    FrameMargins->0,
+                    ImageMargins->0,
+                    Method->"Preemptive"]}, Dynamic[
+                    FEPrivate`Part[System`InformationDump`open$$, 3]]], 
+                   PaneSelectorBox[{True->GridBox[{
+                    {
+                    RowBox[{"Background", "\[Rule]", "Automatic"}]},
+                    {
+                    RowBox[{"BaseStyle", "\[Rule]", "\<\"Tooltip\"\>"}]},
+                    {
+                    RowBox[{"DefaultBaseStyle", "\[Rule]", 
+                    RowBox[{"{", "}"}]}]},
+                    {
+                    RowBox[{
+                    "DefaultTooltipStyle", 
+                    "\[Rule]", "\<\"TooltipLabel\"\>"}]},
+                    {
+                    RowBox[{"StripOnInput", "\[Rule]", "False"}]},
+                    {
+                    RowBox[{"TooltipDelay", "\[Rule]", "0"}]},
+                    {
+                    RowBox[{"TooltipStyle", "\[Rule]", 
+                    RowBox[{"{", "}"}]}]},
+                    {
+                    StyleBox[
+                    
+                    TemplateBox[{
+                    "\"(\"", "\"\[InvisibleSpace]\"", "7", "\" total)\""},
+                    "RowDefault"], "InformationRowOpener",
+                    StripOnInput->False]}
+                    },
+                    BaselinePosition->{Baseline, {1, 1}},
+                    DefaultBaseStyle->"Column",
+                    GridBoxAlignment->{"Columns" -> {{Left}}},
+                    
+                    GridBoxItemSize->{
+                    "Columns" -> {{Automatic}}, "Rows" -> {{1.}}}], False->
+                    RowBox[{
+                    RowBox[{"Background", "\[Rule]", "Automatic"}], 
+                    "\[ThinSpace]", 
+                    StyleBox["\<\"\[Ellipsis]\"\>", "InformationRowOpener",
+                    StripOnInput->False], "\[ThinSpace]", 
+                    StyleBox[
+                    
+                    TemplateBox[{
+                    "\"(\"", "\"\[InvisibleSpace]\"", "7", "\" total)\""},
+                    "RowDefault"], "InformationRowOpener",
+                    StripOnInput->False]}]}, Dynamic[
+                    FEPrivate`Part[System`InformationDump`open$$, 3]],
+                    BaselinePosition->Baseline,
+                    ImageSize->Automatic]},
+                  {
+                   TagBox[
+                    TooltipBox[
+                    StyleBox["\<\" Attributes\"\>", "InformationRowLabel",
+                    StripOnInput->False],
+                    "\"Attributes\"",
+                    TooltipStyle->"TextStyling"],
+                    Annotation[#, "Attributes", "Tooltip"]& ], 
+                   RowBox[{"{", 
+                    RowBox[{"Protected", ",", "ReadProtected"}], "}"}]},
+                  {
+                   TagBox[
+                    TooltipBox[
+                    StyleBox["\<\" Full Name\"\>", "InformationRowLabel",
+                    StripOnInput->False],
+                    "\"FullName\"",
+                    TooltipStyle->"TextStyling"],
+                    
+                    Annotation[#, "FullName", 
+                    "Tooltip"]& ], "\<\"System`Tooltip\"\>"}
+                 },
+                 AutoDelete->False,
+                 GridBoxAlignment->{"Columns" -> {Right, Left}},
+                 GridBoxDividers->None,
+                 GridBoxItemSize->{"Columns" -> {Automatic, Automatic}},
+                 GridBoxSpacings->{"Columns" -> {
+                    Offset[0.27999999999999997`], {
+                    Offset[0.5599999999999999]}, 
+                    Offset[0.27999999999999997`]}, "Rows" -> {
+                    Offset[0.2], {
+                    Offset[0.8]}, 
+                    Offset[0.2]}}], "DialogStyle",
+                StripOnInput->False],
+               DynamicModuleValues:>{}]}
+            },
+            DefaultBaseStyle->"Column",
+            GridBoxAlignment->{"Columns" -> {{Left}}},
+            GridBoxDividers->{"Columns" -> {{False}}, "Rows" -> {{False}}},
+            
+            GridBoxItemSize->{
+             "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}},
+            GridBoxSpacings->{"Columns" -> {
+                Offset[0.27999999999999997`], {
+                 Offset[0.5599999999999999]}, 
+                Offset[0.27999999999999997`]}, "Rows" -> {
+                Offset[0.2], {
+                 Offset[3.6]}, 
+                Offset[0.2]}}],
+           FrameMargins->{{6, 6}, {6, 3}}], ""},
+         {
+          ItemBox[
+           TagBox[
+            ButtonBox[
+             PaneSelectorBox[{False->
+              
+              DynamicBox[FEPrivate`FrontEndResource[
+               "FEBitmaps", "UpPointerOpener"]], True->
+              
+              DynamicBox[FEPrivate`FrontEndResource[
+               "FEBitmaps", "UpPointerOpenerHot"]]}, Dynamic[
+              System`InformationDump`mouseOver$$]],
+             Alignment->Left,
+             Appearance->{"Default" -> None},
+             
+             ButtonFunction:>FEPrivate`Set[
+              System`InformationDump`open$$, False],
+             Evaluator->Automatic,
+             FrameMargins->{{9, 0}, {0, 0}},
+             ImageMargins->0,
+             ImageSize->Full,
+             Method->"Preemptive"],
+            
+            EventHandlerTag[{
+             "MouseEntered" :> 
+              FEPrivate`Set[System`InformationDump`mouseOver$$, True], 
+              "MouseExited" :> 
+              FEPrivate`Set[System`InformationDump`mouseOver$$, False], 
+              Method -> "Preemptive", PassEventsDown -> Automatic, 
+              PassEventsUp -> True}]],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False], "\[SpanFromLeft]"}
+        },
+        AutoDelete->False,
+        FrameStyle->Directive[
+          GrayLevel[0.8], 
+          Thickness[Tiny]],
+        GridBoxAlignment->{"Columns" -> {Left, Right}, "Rows" -> {{Center}}},
+        GridBoxDividers->{
+         "Columns" -> {{None}}, "Rows" -> {False, {True}, False}},
+        GridBoxItemSize->{
+         "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
+       "Grid"], False->
+      TagBox[GridBox[{
+         {
+          ItemBox[
+           PaneBox[
+            StyleBox["\<\" Symbol\"\>", "InformationTitleText",
+             StripOnInput->False],
+            FrameMargins->{{4, 0}, {-1, 1}}],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False], 
+          ItemBox[
+           PaneBox[
+            TooltipBox[
+             ButtonBox[
+              PaneSelectorBox[{False->
+               
+               DynamicBox[FEPrivate`FrontEndResource[
+                "FEBitmaps", "InformationHelpIcon"],
+                ImageSizeCache->{13., {4., 9.}}], True->
+               
+               DynamicBox[FEPrivate`FrontEndResource[
+                "FEBitmaps", "InformationHelpIconHot"],
+                ImageSizeCache->{13., {4., 9.}}]}, Dynamic[
+                CurrentValue["MouseOver"]]],
+              Appearance->None,
+              BaseStyle->"Link",
+              ButtonData->"paclet:ref/Tooltip",
+              ButtonNote->"paclet:ref/Tooltip"],
+             "\"paclet:ref/Tooltip\""],
+            FrameMargins->{{0, 4}, {0, 2}}],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False]},
+         {
+          ItemBox[
+           PaneBox[
+            
+            StyleBox["\<\"\\!\\(\\*RowBox[{\\\"Tooltip\\\", \\\"[\\\", \
+RowBox[{StyleBox[\\\"expr\\\", \\\"TI\\\"], \\\",\\\", \
+StyleBox[\\\"label\\\", \\\"TI\\\"]}], \\\"]\\\"}]\\) displays \
+\\!\\(\\*StyleBox[\\\"label\\\", \\\"TI\\\"]\\) as a tooltip while the mouse \
+pointer is in the area where \\!\\(\\*StyleBox[\\\"expr\\\", \\\"TI\\\"]\\) \
+is displayed. \"\>", "InformationUsageText",
+             StripOnInput->False,
+             LineSpacing->{1.5, 1.5, 3.}],
+            FrameMargins->{{10, 10}, {8, 10}}],
+           BaseStyle->"InformationUsageSubtitleBackground",
+           StripOnInput->False], 
+          ItemBox["\<\"\"\>",
+           BaseStyle->"InformationUsageSubtitleBackground",
+           StripOnInput->False]},
+         {
+          ItemBox[
+           TagBox[
+            ButtonBox[
+             PaneSelectorBox[{False->
+              
+              DynamicBox[FEPrivate`FrontEndResource[
+               "FEBitmaps", "DownPointerOpener"],
+               ImageSizeCache->{10., {3., 7.}}], True->
+              
+              DynamicBox[FEPrivate`FrontEndResource[
+               "FEBitmaps", "DownPointerOpenerHot"],
+               ImageSizeCache->{10., {3., 7.}}]}, Dynamic[
+              System`InformationDump`mouseOver$$]],
+             Alignment->Left,
+             Appearance->{"Default" -> None},
+             
+             ButtonFunction:>FEPrivate`Set[
+              System`InformationDump`open$$, True],
+             Evaluator->Automatic,
+             FrameMargins->{{9, 0}, {0, 0}},
+             ImageMargins->0,
+             ImageSize->Full,
+             Method->"Preemptive"],
+            
+            EventHandlerTag[{
+             "MouseEntered" :> 
+              FEPrivate`Set[System`InformationDump`mouseOver$$, True], 
+              "MouseExited" :> 
+              FEPrivate`Set[System`InformationDump`mouseOver$$, False], 
+              Method -> "Preemptive", PassEventsDown -> Automatic, 
+              PassEventsUp -> True}]],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False], "\[SpanFromLeft]"}
+        },
+        AutoDelete->False,
+        FrameStyle->Directive[
+          GrayLevel[0.8], 
+          Thickness[Tiny]],
+        GridBoxAlignment->{"Columns" -> {Left, Right}, "Rows" -> {{Center}}},
+        GridBoxDividers->{
+         "Columns" -> {{None}}, "Rows" -> {False, {True}, False}},
+        GridBoxItemSize->{
+         "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
+       "Grid"]}, Dynamic[System`InformationDump`open$$],
+      BaselinePosition->Baseline,
+      FrameMargins->0,
+      ImageSize->Automatic],
+     DynamicModuleValues:>{}],
+    BaseStyle->"InformationGridFrame",
+    StripOnInput->False], "InformationGridPlain",
+   StripOnInput->False],
+  InformationData[<|
+   "ObjectType" -> "Symbol", "Usage" -> 
+    "\!\(\*RowBox[{\"Tooltip\", \"[\", RowBox[{StyleBox[\"expr\", \"TI\"], \
+\",\", StyleBox[\"label\", \"TI\"]}], \"]\"}]\) displays \
+\!\(\*StyleBox[\"label\", \"TI\"]\) as a tooltip while the mouse pointer is \
+in the area where \!\(\*StyleBox[\"expr\", \"TI\"]\) is displayed. ", 
+    "Documentation" -> <|
+     "Local" -> "paclet:ref/Tooltip", "Web" -> 
+      "http://reference.wolfram.com/language/ref/Tooltip.html"|>, "OwnValues" -> 
+    None, "UpValues" -> None, "DownValues" -> None, "SubValues" -> None, 
+    "DefaultValues" -> None, "NValues" -> None, "FormatValues" -> None, 
+    "Options" -> {
+     Background -> Automatic, BaseStyle -> "Tooltip", DefaultBaseStyle -> {}, 
+      DefaultTooltipStyle -> "TooltipLabel", StripOnInput -> False, 
+      TooltipDelay -> 0, TooltipStyle -> {}}, 
+    "Attributes" -> {Protected, ReadProtected}, "FullName" -> 
+    "System`Tooltip"|>, False]]], "Output",
+ CellChangeTimes->{3.979807594367234*^9},
+ CellLabel->"Out[15]=",ExpressionUUID->"4c2c8e4a-fc88-44c8-914e-428df0e11ea7"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1141,7 +2258,7 @@ Cell[BoxData[
    RowBox[{"x", " ", "+", " ", "y"}], ",", " ", "\"\<label\>\""}], 
   "]"}]], "Input",
  CellChangeTimes->{{3.9630592408442507`*^9, 3.9630592521982527`*^9}},
- CellLabel->"In[2]:=",ExpressionUUID->"f6c9a75c-4974-468a-a988-258e747e7631"],
+ CellLabel->"In[16]:=",ExpressionUUID->"f6c9a75c-4974-468a-a988-258e747e7631"],
 
 Cell[BoxData[
  TagBox[
@@ -1150,8 +2267,8 @@ Cell[BoxData[
    "\"label\"",
    TooltipStyle->"TextStyling"],
   Annotation[#, "label", "Tooltip"]& ]], "Output",
- CellChangeTimes->{3.963059252737623*^9},
- CellLabel->"Out[2]=",ExpressionUUID->"9d68b1a3-a6e5-4e3f-87d9-f07f4c791d13"]
+ CellChangeTimes->{3.963059252737623*^9, 3.9798075944298105`*^9},
+ CellLabel->"Out[16]=",ExpressionUUID->"02e0a7b8-d465-44c2-94f9-aa431baefc80"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1167,7 +2284,6 @@ Cell[BoxData[{
         RowBox[{
          RowBox[{"CountryData", "[", 
           RowBox[{"i", ",", " ", "\"\<LifeExpectancy\>\""}], "]"}], ",", " ", 
-         
          RowBox[{"CountryData", "[", 
           RowBox[{"i", ",", " ", "\"\<GDP\>\""}], "]"}]}], "}"}], ",", 
        "\[IndentingNewLine]", 
@@ -1184,12 +2300,13 @@ Cell[BoxData[{
      RowBox[{"\"\<Life Expectancy\>\"", ",", " ", "\"\<GDP\>\""}], "}"}]}]}], 
   "]"}]}], "Input",
  CellChangeTimes->{{3.963059272404936*^9, 3.963059484941633*^9}},
- CellLabel->"In[1]:=",ExpressionUUID->"d40438b2-7fb9-40db-8b92-ac149914ebaa"],
+ CellLabel->"In[17]:=",ExpressionUUID->"d40438b2-7fb9-40db-8b92-ac149914ebaa"],
 
 Cell[BoxData[
- GraphicsBox[{{}, {{{}, 
+ GraphicsBox[{{}, {
+    TagBox[
      {RGBColor[0.368417, 0.506779, 0.709798], PointSize[0.009166666666666668],
-       AbsoluteThickness[1.6], PointBox[CompressedData["
+       AbsoluteThickness[2], PointBox[CompressedData["
 1:eJw9VwlcTdkfT0NCsiSRopS9JvWW+959xTdapF69uxQlxmSZZwulmaxjHdtY
 khATSg0tCGmoRIRkD/9kHdPYYwoVpfzP61zu59Onz33n3HPP+X2337WPmM1P
 MTYyMnpO/gz/dRu2R3b112FaHNO09TiDbSPXz3yeKaD5nlXwp+kM5r/s72rq
@@ -1256,7 +2373,8 @@ LGbp/HEiphZGtP99r/u3fj/IbrTX4KxhIOyouOYi4ocbGb+06fXVLwVE+GR/
 jiP4t/h3HYd3V4dEB19U0fzez6EiMiGjabMcgaS9Vbcm33P2xUW396rp99Bj
 kn89TuVGCRLfjEREBzwZWfXCVeI/jyi/RF3ZL1LerNdBjLH+47dqKY/MdDhX
 qIlRHGaoPz4KhEvDtX/frWPwfx/ZQ24=
-       "]]}, {}}, {
+       "]]},
+     Annotation[#, "Charting`Private`Tag#1"]& ], {
      TagBox[
       TooltipBox[
        {Opacity[0.], PointBox[{{65.173, 23.709304643694313`}}]},
@@ -2644,34 +3762,95 @@ qIlRHGaoPz4KhEvDtX/frWPwfx/ZQ24=
        {Opacity[0.], PointBox[{{61.738, 23.542768765002787`}}]},
        "\"Zimbabwe\"",
        TooltipStyle->"TextStyling"],
-      Annotation[#, "Zimbabwe", "Tooltip"]& ]}}, {}, {}, {}, {}},
+      Annotation[#, "Zimbabwe", "Tooltip"]& ]}}, {{}, {}}},
   AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
   Axes->{True, True},
   AxesLabel->{
-    FormBox["\"Life Expectancy\"", TraditionalForm], 
-    FormBox["\"GDP\"", TraditionalForm]},
-  AxesOrigin->{53.12085937500001, 15.69217474640162},
+    FormBox[
+     TagBox["\"Life Expectancy\"", HoldForm], TraditionalForm], 
+    FormBox[
+     TagBox["\"GDP\"", HoldForm], TraditionalForm]},
+  AxesOrigin->{52.93481250000013, 15.612913660723805`},
   DisplayFunction->Identity,
   Frame->{{False, False}, {False, False}},
   FrameLabel->{{None, None}, {None, None}},
   FrameTicks->{{
-     Charting`ScaledTicks[{Log, Exp}], 
+     Charting`ScaledTicks[{Log, Exp}, {Log, Exp}, "Nice", WorkingPrecision -> 
+      15.954589770191003`, RotateLabel -> 0], 
      Charting`ScaledFrameTicks[{Log, Exp}]}, {Automatic, Automatic}},
   GridLines->{None, None},
   GridLinesStyle->Directive[
     GrayLevel[0.5, 0.4]],
-  ImagePadding->All,
   ImageSize->{626.3999999999992, Automatic},
-  Method->{"CoordinatesToolOptions" -> {"DisplayFunction" -> ({
-        (Identity[#]& )[
+  Method->{
+   "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
+    "DefaultGraphicsInteraction" -> {
+     "Version" -> 1.2, "TrackMousePosition" -> {True, False}, 
+      "Effects" -> {
+       "Highlight" -> {"ratio" -> 2}, "HighlightPoint" -> {"ratio" -> 2}, 
+        "Droplines" -> {
+         "freeformCursorMode" -> True, 
+          "placement" -> {"x" -> "All", "y" -> "None"}}}}, "DefaultMeshStyle" -> 
+    AbsolutePointSize[6], "DefaultPlotStyle" -> {
+      Directive[
+       RGBColor[0.368417, 0.506779, 0.709798], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.880722, 0.611041, 0.142051], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.560181, 0.691569, 0.194885], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.922526, 0.385626, 0.209179], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.528488, 0.470624, 0.701351], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.772079, 0.431554, 0.102387], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.363898, 0.618501, 0.782349], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[1, 0.75, 0], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.647624, 0.37816, 0.614037], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.571589, 0.586483, 0.], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.915, 0.3325, 0.2125], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.40082222609352647`, 0.5220066643438841, 0.85], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.9728288904374106, 0.621644452187053, 0.07336199581899142], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.736782672705901, 0.358, 0.5030266573755369], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.28026441037696703`, 0.715, 0.4292089322474965], 
+       AbsoluteThickness[2]]}, "DomainPadding" -> Scaled[0.02], 
+    "PointSizeFunction" -> "SmallPointSize", "RangePadding" -> Scaled[0.05], 
+    "OptimizePlotMarkers" -> True, "IncludeHighlighting" -> "CurrentPoint", 
+    "HighlightStyle" -> Automatic, "OptimizePlotMarkers" -> True, 
+    "CoordinatesToolOptions" -> {"DisplayFunction" -> ({
+        Identity[
          Part[#, 1]], 
-        (Exp[#]& )[
+        Exp[
          Part[#, 2]]}& ), "CopiedValueFunction" -> ({
-        (Identity[#]& )[
+        Identity[
          Part[#, 1]], 
-        (Exp[#]& )[
+        Exp[
          Part[#, 2]]}& )}},
-  PlotRange->{{53.679, 89.4}, {15.929958003435168`, 30.672519939515322`}},
+  PlotRange->{{52.93481250000013, 89.4}, {15.612913660723805`, 
+   30.672519939515322`}},
   PlotRangeClipping->True,
   PlotRangePadding->{{
      Scaled[0.02], 
@@ -2679,244 +3858,257 @@ qIlRHGaoPz4KhEvDtX/frWPwfx/ZQ24=
      Scaled[0.02], 
      Scaled[0.05]}},
   Ticks->FrontEndValueCache[{Automatic, 
-     Charting`ScaledTicks[{Log, Exp}]}, {Automatic, {{16.11809565095832, 
+     Charting`ScaledTicks[{Log, Exp}, {Log, Exp}, "Nice", WorkingPrecision -> 
+      15.954589770191003`, RotateLabel -> 0]}, {
+    Automatic, {{16.11809565095832, 
        FormBox[
         TemplateBox[{"10", "7"}, "Superscript", SyntaxForm -> SuperscriptBox],
-         TraditionalForm], {0.01, 0.}, {
-        AbsoluteThickness[0.1]}}, {18.420680743952367`, 
+         TraditionalForm], {0.01, 0.}}, {18.420680743952367`, 
        FormBox[
         TemplateBox[{"10", "8"}, "Superscript", SyntaxForm -> SuperscriptBox],
-         TraditionalForm], {0.01, 0.}, {
-        AbsoluteThickness[0.1]}}, {20.72326583694641, 
+         TraditionalForm], {0.01, 0.}}, {20.72326583694641, 
        FormBox[
         TemplateBox[{"10", "9"}, "Superscript", SyntaxForm -> SuperscriptBox],
-         TraditionalForm], {0.01, 0.}, {
-        AbsoluteThickness[0.1]}}, {23.025850929940457`, 
+         TraditionalForm], {0.01, 0.}}, {23.025850929940457`, 
        FormBox[
         TemplateBox[{"10", "10"}, "Superscript", SyntaxForm -> 
-         SuperscriptBox], TraditionalForm], {0.01, 0.}, {
-        AbsoluteThickness[0.1]}}, {25.328436022934504`, 
+         SuperscriptBox], TraditionalForm], {0.01, 0.}}, {25.328436022934504`, 
        FormBox[
         TemplateBox[{"10", "11"}, "Superscript", SyntaxForm -> 
-         SuperscriptBox], TraditionalForm], {0.01, 0.}, {
-        AbsoluteThickness[0.1]}}, {27.631021115928547`, 
+         SuperscriptBox], TraditionalForm], {0.01, 0.}}, {27.631021115928547`, 
        FormBox[
         TemplateBox[{"10", "12"}, "Superscript", SyntaxForm -> 
-         SuperscriptBox], TraditionalForm], {0.01, 0.}, {
-        AbsoluteThickness[0.1]}}, {29.933606208922594`, 
+         SuperscriptBox], TraditionalForm], {0.01, 0.}}, {29.933606208922594`, 
        FormBox[
         TemplateBox[{"10", "13"}, "Superscript", SyntaxForm -> 
-         SuperscriptBox], TraditionalForm], {0.01, 0.}, {
-        AbsoluteThickness[0.1]}}, {13.815510557964274`, 
+         SuperscriptBox], TraditionalForm], {0.01, 0.}}, {11.512925464970229`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {14.508657738524219`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      12.206072645530174`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {14.914122846632385`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      12.611537753638338`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {15.201804919084164`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      12.89921982609012, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {15.424948470398375`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      13.122363377404328`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {15.60727002719233, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      13.304684934198283`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {15.761420707019587`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      13.458835614025542`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {15.89495209964411, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      13.592367006650065`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {16.012735135300492`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      13.710150042306449`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {16.811242831518264`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      13.815510557964274`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {17.216707939626428`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      14.508657738524219`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {17.50439001207821, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      14.914122846632385`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {17.72753356339242, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      15.201804919084164`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {17.909855120186375`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      15.424948470398375`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {18.064005800013632`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      15.60727002719233, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {18.197537192638155`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      15.761420707019587`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {18.31532022829454, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      15.89495209964411, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {19.11382792451231, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      16.012735135300492`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {19.519293032620475`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      16.811242831518264`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {19.806975105072254`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      17.216707939626428`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {20.030118656386467`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      17.50439001207821, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {20.21244021318042, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      17.72753356339242, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {20.36659089300768, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      17.909855120186375`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {20.5001222856322, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      18.064005800013632`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {20.617905321288585`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      18.197537192638155`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {21.416413017506358`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      18.31532022829454, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {21.82187812561452, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      19.11382792451231, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {22.1095601980663, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      19.519293032620475`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {22.33270374938051, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      19.806975105072254`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {22.515025306174465`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      20.030118656386467`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {22.669175986001726`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      20.21244021318042, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {22.80270737862625, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      20.36659089300768, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {22.920490414282632`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      20.5001222856322, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {23.7189981105004, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      20.617905321288585`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {24.124463218608568`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      21.416413017506358`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {24.412145291060348`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      21.82187812561452, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {24.635288842374557`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      22.1095601980663, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {24.81761039916851, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      22.33270374938051, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {24.97176107899577, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      22.515025306174465`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {25.10529247162029, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      22.669175986001726`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {25.223075507276675`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      22.80270737862625, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {26.021583203494448`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      22.920490414282632`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {26.42704831160261, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      23.7189981105004, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {26.714730384054395`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      24.124463218608568`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {26.937873935368604`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      24.412145291060348`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {27.12019549216256, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      24.635288842374557`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {27.274346171989816`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      24.81761039916851, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {27.40787756461434, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      24.97176107899577, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {27.525660600270722`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      25.10529247162029, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {28.324168296488494`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      25.223075507276675`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {28.729633404596658`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      26.021583203494448`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {29.017315477048438`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      26.42704831160261, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {29.240459028362647`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      26.714730384054395`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {29.4227805851566, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      26.937873935368604`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {29.576931264983862`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      27.12019549216256, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {29.710462657608385`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      27.274346171989816`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {29.82824569326477, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      27.40787756461434, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {30.626753389482538`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      27.525660600270722`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {31.032218497590705`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      28.324168296488494`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {31.319900570042485`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      28.729633404596658`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {31.543044121356694`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      29.017315477048438`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {31.72536567815065, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      29.240459028362647`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {31.879516357977906`, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      29.4227805851566, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {32.01304775060243, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      29.576931264983862`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {32.13083078625881, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      29.710462657608385`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {32.23619130191664, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      29.82824569326477, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {32.92933848247659, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      30.626753389482538`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {33.33480359058475, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      31.032218497590705`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}, {33.62248566303653, 
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      31.319900570042485`, 
        FormBox[
-        TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
-        AbsoluteThickness[0.1]}}}}]]], "Output",
- CellChangeTimes->{3.963059490321189*^9},
- CellLabel->"Out[2]=",ExpressionUUID->"ee3ff7ad-3224-451c-b858-0d2098ce39ae"]
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      31.543044121356694`, 
+       FormBox[
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      31.72536567815065, 
+       FormBox[
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      31.879516357977906`, 
+       FormBox[
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      32.01304775060243, 
+       FormBox[
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      32.13083078625881, 
+       FormBox[
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 0.}}, {
+      32.23619130191664, 
+       FormBox[
+        TemplateBox[{0, 0}, "Spacer2"], TraditionalForm], {0.005, 
+       0.}}}}]]], "Output",
+ CellChangeTimes->{3.963059490321189*^9, 3.979807596932678*^9},
+ CellLabel->"Out[18]=",ExpressionUUID->"1c6ef642-b3fd-4e13-938b-9eba920361d8"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2968,30 +4160,27 @@ Cell[BoxData[
   3.963059922541044*^9}, {3.963060039271242*^9, 3.96306004385842*^9}, {
   3.963060103938051*^9, 3.96306011900613*^9}, {3.96306026737556*^9, 
   3.963060268255289*^9}},
- CellLabel->"In[7]:=",ExpressionUUID->"f5f0749b-c644-4f98-adb7-9916149de4ad"],
+ CellLabel->"In[19]:=",ExpressionUUID->"f5f0749b-c644-4f98-adb7-9916149de4ad"],
 
 Cell[BoxData[
  TagBox[
   StyleBox[
    DynamicModuleBox[{$CellContext`plotFn$$ = 
-    ListLogLogPlot, $CellContext`prop$$ = "LiteracyFraction", Typeset`show$$ =
-     True, Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
+    ListLogLogPlot, $CellContext`prop$$ = "GDP", Typeset`show$$ = True, 
+    Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
     Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
     "\"untitled\"", Typeset`specs$$ = {{
       Hold[$CellContext`prop$$], {
       "InfantMortalityFraction", "GDP", "LiteracyFraction"}}, {{
        Hold[$CellContext`plotFn$$], ListLogLogPlot}, {
       ListPlot, ListLogPlot, ListLogLogPlot}}}, Typeset`size$$ = {
-    887., {240., 247.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
-    Typeset`skipInitDone$$ = True, $CellContext`prop$208538$$ = 
-    0, $CellContext`plotFn$208539$$ = 0}, 
+    360., {94., 97.75374940017721}}, Typeset`update$$ = 0, Typeset`initDone$$,
+     Typeset`skipInitDone$$ = True}, 
     DynamicBox[Manipulate`ManipulateBoxes[
      1, StandardForm, 
       "Variables" :> {$CellContext`plotFn$$ = 
         ListLogLogPlot, $CellContext`prop$$ = "InfantMortalityFraction"}, 
-      "ControllerVariables" :> {
-        Hold[$CellContext`prop$$, $CellContext`prop$208538$$, 0], 
-        Hold[$CellContext`plotFn$$, $CellContext`plotFn$208539$$, 0]}, 
+      "ControllerVariables" :> {}, 
       "OtherVariables" :> {
        Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
         Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
@@ -3009,7 +4198,7 @@ Cell[BoxData[
           "LiteracyFraction"}}, {{$CellContext`plotFn$$, ListLogLogPlot}, {
          ListPlot, ListLogPlot, ListLogLogPlot}}}, "Options" :> {}, 
       "DefaultOptions" :> {}],
-     ImageSizeCache->{944., {314., 322.}},
+     ImageSizeCache->{953., {122.13403309800196`, 127.86596690199804`}},
      SingleEvaluation->True],
     Deinitialization:>None,
     DynamicModuleValues:>{},
@@ -3023,89 +4212,84 @@ Cell[BoxData[
  CellChangeTimes->{
   3.963059931179302*^9, {3.9630599752121058`*^9, 3.9630599879530993`*^9}, {
    3.963060021553668*^9, 3.9630600442672243`*^9}, {3.963060197807658*^9, 
-   3.963060204009667*^9}, 3.9630603693062963`*^9},
- CellLabel->"Out[7]=",ExpressionUUID->"bc20b15a-37d5-4d0c-8d56-046f3da1b2d5"]
+   3.963060204009667*^9}, 3.9630603693062963`*^9, 3.9798075973472743`*^9},
+ CellLabel->"Out[19]=",ExpressionUUID->"f66ecd51-930c-46d4-8a75-801c7e5b060e"]
 }, Open  ]],
 
 Cell[BoxData[""], "Input",
  CellChangeTimes->{{3.9630607803374367`*^9, 3.963060789090055*^9}, {
-  3.9630608484873037`*^9, 
-  3.963060851225391*^9}},ExpressionUUID->"f52d630c-5770-455b-9e3f-\
-a84d06ad4d9c"]
+  3.9630608484873037`*^9, 3.963060851225391*^9}},
+ CellLabel->"In[20]:=",ExpressionUUID->"f52d630c-5770-455b-9e3f-a84d06ad4d9c"]
 },
-WindowSize->{1080, 1888},
-WindowMargins->{{-1080, Automatic}, {Automatic, 32}},
-Magnification->1.25,
-FrontEndVersion->"11.3 for Linux x86 (64-bit) (March 6, 2018)",
-StyleDefinitions->"Default.nb"
+WindowSize->{1070.25, 615.75},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"13.3 for Microsoft Windows (64-bit) (July 24, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"9026a65c-3b8b-455c-b98c-83a75ecf63bc"
 ]
 (* End of Notebook Content *)
 
 (* Internal cache information *)
 (*CellTagsOutline
-CellTagsIndex->{
- "Info13963066379-8858613"->{
-  Cell[41475, 1117, 693, 15, 59, "Print",ExpressionUUID->"4c2fde9c-7d58-49d2-997a-e1bf220dd1c6",
-   CellTags->"Info13963066379-8858613"]}
- }
+CellTagsIndex->{}
 *)
 (*CellTagsIndex
-CellTagsIndex->{
- {"Info13963066379-8858613", 113748, 3046}
- }
+CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 281, 5, 39, "Input",ExpressionUUID->"1b97d754-b1e4-4887-8c18-dd37e1ee3bb1"],
-Cell[864, 29, 212, 4, 49, "Output",ExpressionUUID->"eca802cd-964e-4d5f-9c30-2785a1f95052"]
+Cell[580, 22, 281, 5, 28, "Input",ExpressionUUID->"1b97d754-b1e4-4887-8c18-dd37e1ee3bb1"],
+Cell[864, 29, 239, 4, 38, "Output",ExpressionUUID->"89a24af6-32b3-43ec-8f34-52725db880d5"]
 }, Open  ]],
-Cell[1091, 36, 829, 20, 98, "Input",ExpressionUUID->"be70d9be-908b-4798-80a4-d20c2edad793"],
-Cell[1923, 58, 207, 3, 39, "Input",ExpressionUUID->"09adf9b9-4bf6-40f6-83b0-0ea22d046905"],
-Cell[2133, 63, 810, 23, 76, "Input",ExpressionUUID->"db684ff6-e920-42b2-89ad-e70165aa6d65"],
+Cell[1118, 36, 829, 20, 48, "Input",ExpressionUUID->"be70d9be-908b-4798-80a4-d20c2edad793"],
 Cell[CellGroupData[{
-Cell[2968, 90, 318, 6, 39, "Input",ExpressionUUID->"5dc69408-b039-4ed5-b236-ec97d14c672d"],
-Cell[3289, 98, 752, 21, 103, "Output",ExpressionUUID->"2f3cb206-828f-40b1-9e9c-c03db424a9bd"]
+Cell[1972, 60, 207, 3, 28, "Input",ExpressionUUID->"09adf9b9-4bf6-40f6-83b0-0ea22d046905"],
+Cell[2182, 65, 11566, 289, 242, "Output",ExpressionUUID->"62f07400-2525-4f60-a91f-55b010619078"]
 }, Open  ]],
+Cell[13763, 357, 864, 23, 34, "Input",ExpressionUUID->"db684ff6-e920-42b2-89ad-e70165aa6d65"],
 Cell[CellGroupData[{
-Cell[4078, 124, 205, 3, 39, "Input",ExpressionUUID->"24588e26-16d7-4a81-908e-597fca940961"],
-Cell[4286, 129, 775, 21, 103, "Output",ExpressionUUID->"0c18c5af-f59a-4208-a8e5-89c9fcb74548"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[5098, 155, 309, 6, 39, "Input",ExpressionUUID->"774e7c9d-3788-43e6-afcf-c212e0510f13"],
-Cell[5410, 163, 5905, 168, 302, "Output",ExpressionUUID->"83c4440b-cae7-45f2-ae3a-1a580b551874"]
+Cell[14652, 384, 318, 6, 28, "Input",ExpressionUUID->"5dc69408-b039-4ed5-b236-ec97d14c672d"],
+Cell[14973, 392, 11532, 290, 242, "Output",ExpressionUUID->"e50258b3-b5fc-421a-9eb5-30cda331b312"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[11352, 336, 2949, 79, 475, "Input",ExpressionUUID->"4dffb986-d8ba-41ed-b29d-d3494c301f99"],
-Cell[14304, 417, 5472, 137, 306, "Output",ExpressionUUID->"3bdc9fb6-c4cd-46ad-857b-ff9737c80da8"]
-}, Open  ]],
-Cell[19791, 557, 152, 3, 39, "Input",ExpressionUUID->"4a0206d8-83c9-41b8-a077-3c89ffad360d"],
-Cell[CellGroupData[{
-Cell[19968, 564, 919, 23, 127, "Input",ExpressionUUID->"5c42a043-4910-49b9-a62f-eb919e7226c0"],
-Cell[20890, 589, 846, 22, 83, "Output",ExpressionUUID->"11425258-97b4-4134-be86-d020503336ef"]
+Cell[26542, 687, 205, 3, 28, "Input",ExpressionUUID->"24588e26-16d7-4a81-908e-597fca940961"],
+Cell[26750, 692, 11590, 289, 242, "Output",ExpressionUUID->"4cb0722f-6ebb-46d2-ba77-d49917739c12"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[21773, 616, 584, 10, 69, "Input",ExpressionUUID->"10e782b4-deaa-49bc-aa7e-f850020aa304"],
-Cell[22360, 628, 18830, 478, 465, "Output",ExpressionUUID->"1b6e6fad-695f-41ab-a238-bd849a9247f1"]
+Cell[38377, 986, 307, 5, 28, "Input",ExpressionUUID->"774e7c9d-3788-43e6-afcf-c212e0510f13"],
+Cell[38687, 993, 6438, 192, 241, "Output",ExpressionUUID->"40311298-b68d-42d9-a56f-5bac116739f1"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[41227, 1111, 245, 4, 39, "Input",ExpressionUUID->"43d20090-88ab-4d5e-8a5a-91bb741ed79a"],
-Cell[41475, 1117, 693, 15, 59, "Print",ExpressionUUID->"4c2fde9c-7d58-49d2-997a-e1bf220dd1c6",
- CellTags->"Info13963066379-8858613"]
+Cell[45162, 1190, 2948, 79, 257, "Input",ExpressionUUID->"4dffb986-d8ba-41ed-b29d-d3494c301f99"],
+Cell[48113, 1271, 4574, 105, 244, "Output",ExpressionUUID->"b49751db-3ddc-469d-a008-5ab9a3259d0e"]
+}, Open  ]],
+Cell[52702, 1379, 171, 2, 28, "Input",ExpressionUUID->"4a0206d8-83c9-41b8-a077-3c89ffad360d"],
+Cell[CellGroupData[{
+Cell[52898, 1385, 919, 23, 67, "Input",ExpressionUUID->"5c42a043-4910-49b9-a62f-eb919e7226c0"],
+Cell[53820, 1410, 1241, 31, 43, "Output",ExpressionUUID->"eb1ab583-0dd6-4500-892c-7a38cae7fa5d"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[42205, 1137, 285, 6, 39, "Input",ExpressionUUID->"f6c9a75c-4974-468a-a988-258e747e7631"],
-Cell[42493, 1145, 284, 8, 44, "Output",ExpressionUUID->"9d68b1a3-a6e5-4e3f-87d9-f07f4c791d13"]
+Cell[55098, 1446, 584, 10, 28, "Input",ExpressionUUID->"10e782b4-deaa-49bc-aa7e-f850020aa304"],
+Cell[55685, 1458, 16618, 366, 429, "Output",ExpressionUUID->"c60dad63-e2c8-4f19-a4f2-c2923dccb628"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[42814, 1158, 1063, 28, 98, "Input",ExpressionUUID->"d40438b2-7fb9-40db-8b92-ac149914ebaa"],
-Cell[43880, 1188, 64610, 1730, 452, "Output",ExpressionUUID->"ee3ff7ad-3224-451c-b858-0d2098ce39ae"]
+Cell[72340, 1829, 246, 4, 28, "Input",ExpressionUUID->"43d20090-88ab-4d5e-8a5a-91bb741ed79a"],
+Cell[72589, 1835, 17757, 414, 95, "Output",ExpressionUUID->"4c2c8e4a-fc88-44c8-914e-428df0e11ea7"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[108527, 2923, 1946, 47, 214, "Input",ExpressionUUID->"f5f0749b-c644-4f98-adb7-9916149de4ad"],
-Cell[110476, 2972, 2723, 54, 692, "Output",ExpressionUUID->"bc20b15a-37d5-4d0c-8d56-046f3da1b2d5"]
+Cell[90383, 2254, 286, 6, 28, "Input",ExpressionUUID->"f6c9a75c-4974-468a-a988-258e747e7631"],
+Cell[90672, 2262, 309, 8, 32, "Output",ExpressionUUID->"02e0a7b8-d465-44c2-94f9-aa431baefc80"]
 }, Open  ]],
-Cell[113214, 3029, 205, 4, 39, "Input",ExpressionUUID->"f52d630c-5770-455b-9e3f-a84d06ad4d9c"]
+Cell[CellGroupData[{
+Cell[91018, 2275, 1054, 27, 67, "Input",ExpressionUUID->"d40438b2-7fb9-40db-8b92-ac149914ebaa"],
+Cell[92075, 2304, 65485, 1806, 394, "Output",ExpressionUUID->"1c6ef642-b3fd-4e13-938b-9eba920361d8"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[157597, 4115, 1947, 47, 143, "Input",ExpressionUUID->"f5f0749b-c644-4f98-adb7-9916149de4ad"],
+Cell[159547, 4164, 2570, 51, 269, "Output",ExpressionUUID->"f66ecd51-930c-46d4-8a75-801c7e5b060e"]
+}, Open  ]],
+Cell[162132, 4218, 224, 3, 28, "Input",ExpressionUUID->"f52d630c-5770-455b-9e3f-a84d06ad4d9c"]
 }
 ]
 *)
